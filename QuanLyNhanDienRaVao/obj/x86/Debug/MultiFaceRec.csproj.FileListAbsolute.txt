@@ -1,0 +1,907 @@
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\MultiFaceRec.exe.config
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\MultiFaceRec.pdb
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.Video.DirectShow.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.Video.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.Licensing.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.Video.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\AForge.Video.DirectShow.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmConfig.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmCTdancu.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmSplash.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+D:\khoaluan\FinalQLRV\bin\MultiFaceRec.exe.config
+D:\khoaluan\FinalQLRV\bin\MultiFaceRec.exe
+D:\khoaluan\FinalQLRV\bin\MultiFaceRec.pdb
+D:\khoaluan\FinalQLRV\bin\AForge.dll
+D:\khoaluan\FinalQLRV\bin\AForge.Video.DirectShow.dll
+D:\khoaluan\FinalQLRV\bin\AForge.Video.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\khoaluan\FinalQLRV\bin\Bunifu.Licensing.dll
+D:\khoaluan\FinalQLRV\bin\AForge.xml
+D:\khoaluan\FinalQLRV\bin\AForge.Video.xml
+D:\khoaluan\FinalQLRV\bin\AForge.Video.DirectShow.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\khoaluan\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+D:\khoaluan\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmConfig.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmCTdancu.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmSplash.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+D:\khoaluan\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+D:\khoaluan\FinalQLRV\bin\x64\atl100.dll
+D:\khoaluan\FinalQLRV\bin\x64\MediaInfoX64.dll
+D:\khoaluan\FinalQLRV\bin\x64\msvcp100.dll
+D:\khoaluan\FinalQLRV\bin\x64\msvcr100.dll
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_DXP64.dll
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_MFP64.dll
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Audio_ChannelMapper_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Audio_Enhancer_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Audio_Mixer_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_D2D_Video_Renderer_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_RGB2YUV_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Video_Effects_Pro_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Video_Mixer_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_Video_Resize_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\VisioForge_YUV2RGB_x64.ax
+D:\khoaluan\FinalQLRV\bin\x64\avcodec-lav-58.dll
+D:\khoaluan\FinalQLRV\bin\x64\avfilter-lav-7.dll
+D:\khoaluan\FinalQLRV\bin\x64\avformat-lav-58.dll
+D:\khoaluan\FinalQLRV\bin\x64\avresample-lav-4.dll
+D:\khoaluan\FinalQLRV\bin\x64\avutil-lav-56.dll
+D:\khoaluan\FinalQLRV\bin\x64\IntelQuickSyncDecoder.dll
+D:\khoaluan\FinalQLRV\bin\x64\libbluray.dll
+D:\khoaluan\FinalQLRV\bin\x64\swscale-lav-5.dll
+D:\khoaluan\FinalQLRV\bin\x64\LAVFilters.Dependencies.manifest
+D:\khoaluan\FinalQLRV\bin\x64\LAVAudio.ax
+D:\khoaluan\FinalQLRV\bin\x64\LAVSplitter.ax
+D:\khoaluan\FinalQLRV\bin\x64\LAVVideo.ax
+D:\khoaluan\FinalQLRV\bin\VisioForge.Controls.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.Controls.UI.Dialogs.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.Controls.UI.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.MediaFramework.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.Shared.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.Tools.dll
+D:\khoaluan\FinalQLRV\bin\VisioForge.Types.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\atl100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\MediaInfoX64.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\msvcp100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\msvcr100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_DXP64.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_MFP64.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Audio_ChannelMapper_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Audio_Enhancer_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Audio_Mixer_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_D2D_Video_Renderer_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_RGB2YUV_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Video_Effects_Pro_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Video_Mixer_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_Video_Resize_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\VisioForge_YUV2RGB_x64.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\avcodec-lav-58.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\avfilter-lav-7.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\avformat-lav-58.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\avresample-lav-4.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\avutil-lav-56.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\IntelQuickSyncDecoder.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\libbluray.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\swscale-lav-5.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\LAVFilters.Dependencies.manifest
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\LAVAudio.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\LAVSplitter.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x64\LAVVideo.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\MultiFaceRec.exe.config
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\MultiFaceRec.pdb
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.Video.DirectShow.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.Video.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Controls.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Controls.UI.Dialogs.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Controls.UI.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.MediaFramework.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Shared.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Tools.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\VisioForge.Types.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.Licensing.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.Video.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\AForge.Video.DirectShow.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmCTdancu.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmSplash.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\obj\x86\Debug\MultiFaceRec.FormBackup.resources
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\avcodec-lav-58.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\avfilter-lav-7.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\avformat-lav-58.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\avresample-lav-4.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\avutil-lav-56.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\IntelQuickSyncDecoder.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\libbluray.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\swscale-lav-5.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\LAVFilters.Dependencies.manifest
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\LAVAudio.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\LAVSplitter.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\LAVVideo.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\atl100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\MediaInfo.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\msvcp100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\msvcr100.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_DXP.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_MFP.dll
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Audio_ChannelMapper.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Audio_Effects_4.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Audio_Enhancer.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Audio_Mixer.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_D2D_Video_Renderer.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_RGB2YUV.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Video_Effects_Pro.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Video_Mixer.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_Video_Resize.ax
+D:\Works\TotNghiep\DoAn\ngay27thang11\FinalQLRV\FinalQLRV\bin\x86\VisioForge_YUV2RGB.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\atl100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\MediaInfoX64.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\msvcp100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\msvcr100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_DXP64.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_MFP64.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Audio_ChannelMapper_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Audio_Enhancer_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Audio_Mixer_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_D2D_Video_Renderer_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_RGB2YUV_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Video_Effects_Pro_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Video_Mixer_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_Video_Resize_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\VisioForge_YUV2RGB_x64.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\avcodec-lav-58.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\avfilter-lav-7.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\avformat-lav-58.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\avresample-lav-4.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\avutil-lav-56.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\IntelQuickSyncDecoder.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\libbluray.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\swscale-lav-5.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\LAVFilters.Dependencies.manifest
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\LAVAudio.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\LAVSplitter.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x64\LAVVideo.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\avcodec-lav-58.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\avfilter-lav-7.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\avformat-lav-58.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\avresample-lav-4.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\avutil-lav-56.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\IntelQuickSyncDecoder.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\libbluray.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\swscale-lav-5.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\LAVFilters.Dependencies.manifest
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\LAVAudio.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\LAVSplitter.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\LAVVideo.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\atl100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\MediaInfo.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\msvcp100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\msvcr100.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_DXP.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_MFP.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Audio_ChannelMapper.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Audio_Effects_4.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Audio_Enhancer.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Audio_Mixer.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_D2D_Video_Renderer.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_RGB2YUV.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Video_Effects_Pro.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Video_Mixer.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_Video_Resize.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\x86\VisioForge_YUV2RGB.ax
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\MultiFaceRec.exe.config
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\MultiFaceRec.exe
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\MultiFaceRec.pdb
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.Video.DirectShow.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.Video.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Controls.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Controls.UI.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.MediaFramework.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Shared.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Tools.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\VisioForge.Types.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.Licensing.dll
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.Video.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\AForge.Video.DirectShow.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FormBackup.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmCTdancu.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmSplash.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\trand\Documents\Zalo Received Files\New folder\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\atl100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\MediaInfoX64.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\msvcp100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\msvcr100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_DXP64.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_MFP64.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Audio_ChannelMapper_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Audio_Enhancer_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Audio_Mixer_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_D2D_Video_Renderer_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_RGB2YUV_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Video_Effects_Pro_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Video_Mixer_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_Video_Resize_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\VisioForge_YUV2RGB_x64.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\avcodec-lav-58.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\avfilter-lav-7.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\avformat-lav-58.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\avresample-lav-4.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\avutil-lav-56.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\IntelQuickSyncDecoder.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\libbluray.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\swscale-lav-5.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\LAVFilters.Dependencies.manifest
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\LAVAudio.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\LAVSplitter.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x64\LAVVideo.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\avcodec-lav-58.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\avfilter-lav-7.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\avformat-lav-58.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\avresample-lav-4.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\avutil-lav-56.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\IntelQuickSyncDecoder.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\libbluray.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\swscale-lav-5.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\LAVFilters.Dependencies.manifest
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\LAVAudio.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\LAVSplitter.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\LAVVideo.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\atl100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\MediaInfo.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\msvcp100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\msvcr100.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_DXP.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_MFP.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Audio_ChannelMapper.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Audio_Effects_4.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Audio_Enhancer.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Audio_Mixer.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_D2D_Video_Renderer.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_RGB2YUV.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Video_Effects_Pro.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Video_Mixer.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_Video_Resize.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\x86\VisioForge_YUV2RGB.ax
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\MultiFaceRec.exe.config
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\MultiFaceRec.exe
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\MultiFaceRec.pdb
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.Video.DirectShow.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.Video.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Controls.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Controls.UI.Dialogs.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Controls.UI.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.MediaFramework.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Shared.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Tools.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\VisioForge.Types.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.Licensing.dll
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.Video.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\AForge.Video.DirectShow.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.SuggestedBindingRedirects.cache
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FormBackup.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmCTdancu.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmSplash.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+E:\DeTai2\FinalQLRV28-12\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+D:\casio\FinalQLRV\bin\MultiFaceRec.exe.config
+D:\casio\FinalQLRV\bin\MultiFaceRec.exe
+D:\casio\FinalQLRV\bin\MultiFaceRec.pdb
+D:\casio\FinalQLRV\bin\AForge.dll
+D:\casio\FinalQLRV\bin\AForge.Video.DirectShow.dll
+D:\casio\FinalQLRV\bin\AForge.Video.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\casio\FinalQLRV\bin\Bunifu.Licensing.dll
+D:\casio\FinalQLRV\bin\AForge.xml
+D:\casio\FinalQLRV\bin\AForge.Video.xml
+D:\casio\FinalQLRV\bin\AForge.Video.DirectShow.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\casio\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+D:\casio\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FormBackup.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
+D:\casio\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.AssemblyReference.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\MultiFaceRec.exe.config
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\MultiFaceRec.pdb
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.Video.DirectShow.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.Video.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.Deprecated.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.Licensing.dll
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.Video.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\AForge.Video.DirectShow.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.1.5.3.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\bin\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FormBackup.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDangNhap.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmDieuKhien.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmHome.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLaMat.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmLoadDanCu.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTaiKhoan.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTraCuu.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.FrmTrucCamera.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe.licenses
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.exe
+D:\Works\TotNghiep\DoAn\FinalQLRV11-01\FinalQLRV\obj\x86\Debug\MultiFaceRec.pdb
