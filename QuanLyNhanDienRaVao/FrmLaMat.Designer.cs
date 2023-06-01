@@ -107,14 +107,13 @@
             this.bunifuDataGridView1.HeaderBackColor = System.Drawing.Color.DarkSlateGray;
             this.bunifuDataGridView1.HeaderBgColor = System.Drawing.Color.Empty;
             this.bunifuDataGridView1.HeaderForeColor = System.Drawing.Color.White;
-            this.bunifuDataGridView1.Location = new System.Drawing.Point(0, 252);
-            this.bunifuDataGridView1.Margin = new System.Windows.Forms.Padding(4);
+            this.bunifuDataGridView1.Location = new System.Drawing.Point(0, -236);
             this.bunifuDataGridView1.Name = "bunifuDataGridView1";
             this.bunifuDataGridView1.ReadOnly = true;
             this.bunifuDataGridView1.RowHeadersVisible = false;
             this.bunifuDataGridView1.RowTemplate.Height = 40;
             this.bunifuDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.bunifuDataGridView1.Size = new System.Drawing.Size(1284, 354);
+            this.bunifuDataGridView1.Size = new System.Drawing.Size(963, 728);
             this.bunifuDataGridView1.TabIndex = 2;
             this.bunifuDataGridView1.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.DarkSlateGray;
             this.bunifuDataGridView1.SelectionChanged += new System.EventHandler(this.bunifuDataGridView1_SelectionChanged);
@@ -149,9 +148,10 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(36, 23);
+            this.pictureBox1.Location = new System.Drawing.Point(27, 19);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(483, 273);
+            this.pictureBox1.Size = new System.Drawing.Size(362, 222);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
@@ -160,9 +160,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(637, 52);
+            this.label1.Location = new System.Drawing.Point(478, 42);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(180, 32);
+            this.label1.Size = new System.Drawing.Size(138, 26);
             this.label1.TabIndex = 4;
             this.label1.Text = "Xuất hiện lúc";
             // 
@@ -170,9 +171,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(637, 115);
+            this.label2.Location = new System.Drawing.Point(478, 93);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(115, 32);
+            this.label2.Size = new System.Drawing.Size(90, 26);
             this.label2.TabIndex = 5;
             this.label2.Text = "Camera";
             // 
@@ -180,9 +182,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(859, 52);
+            this.label3.Location = new System.Drawing.Point(644, 42);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(133, 32);
+            this.label3.Size = new System.Drawing.Size(104, 26);
             this.label3.TabIndex = 6;
             this.label3.Text = "datetime";
             // 
@@ -190,9 +193,10 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(859, 115);
+            this.label4.Location = new System.Drawing.Point(644, 93);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 32);
+            this.label4.Size = new System.Drawing.Size(57, 26);
             this.label4.TabIndex = 7;
             this.label4.Text = "cam";
             // 
@@ -200,9 +204,10 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(646, 173);
+            this.radioButton1.Location = new System.Drawing.Point(484, 141);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(69, 21);
+            this.radioButton1.Size = new System.Drawing.Size(56, 17);
             this.radioButton1.TabIndex = 8;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Tất cả";
@@ -212,9 +217,10 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(646, 200);
+            this.radioButton2.Location = new System.Drawing.Point(484, 162);
+            this.radioButton2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(97, 21);
+            this.radioButton2.Size = new System.Drawing.Size(76, 17);
             this.radioButton2.TabIndex = 9;
             this.radioButton2.Text = "Theo ngày";
             this.radioButton2.UseVisualStyleBackColor = true;
@@ -238,19 +244,20 @@
             this.bunifuDatePicker1.IconColor = System.Drawing.Color.Gray;
             this.bunifuDatePicker1.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right;
             this.bunifuDatePicker1.LeftTextMargin = 5;
-            this.bunifuDatePicker1.Location = new System.Drawing.Point(772, 200);
+            this.bunifuDatePicker1.Location = new System.Drawing.Point(579, 162);
+            this.bunifuDatePicker1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bunifuDatePicker1.MinimumSize = new System.Drawing.Size(4, 32);
             this.bunifuDatePicker1.Name = "bunifuDatePicker1";
-            this.bunifuDatePicker1.Size = new System.Drawing.Size(220, 32);
+            this.bunifuDatePicker1.Size = new System.Drawing.Size(166, 32);
             this.bunifuDatePicker1.TabIndex = 10;
             this.bunifuDatePicker1.Value = new System.DateTime(2021, 10, 16, 0, 0, 0, 0);
             this.bunifuDatePicker1.ValueChanged += new System.EventHandler(this.bunifuDatePicker1_ValueChanged);
             // 
             // FrmLaMat
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1284, 606);
+            this.ClientSize = new System.Drawing.Size(963, 492);
             this.Controls.Add(this.bunifuDatePicker1);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
@@ -260,6 +267,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.bunifuDataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FrmLaMat";
             this.Text = "FrmLaMat";
             this.Load += new System.EventHandler(this.FrmLaMat_Load);

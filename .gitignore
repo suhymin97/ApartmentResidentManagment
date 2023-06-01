@@ -1,2 +1,5 @@
 /*.cache
 /*.bak
+*/bin/*
+obj/*
+/QuanLyNhanDienRaVao/obj

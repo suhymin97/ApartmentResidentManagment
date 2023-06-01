@@ -325,6 +325,26 @@ namespace MultiFaceRec
             catch { }
         }
 
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void toolStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void lblTemp_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void toolStripButton10_Click(object sender, EventArgs e)
         {
             try
