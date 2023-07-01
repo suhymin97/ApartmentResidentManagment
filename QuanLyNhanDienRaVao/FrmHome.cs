@@ -204,8 +204,8 @@ namespace MultiFaceRec
         {
             if (dt.ttRa() == 1 || dt.ttVao() == 1)
             {
-                bunifuSnackbar1.Show(this, "Xin hãy tắt Camera trước khi thoát!!!",
-            Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Error, 2000, "", Bunifu.UI.WinForms.BunifuSnackbar.Positions.MiddleCenter);
+            //    bunifuSnackbar1.Show(this, "Xin hãy tắt Camera trước khi thoát!!!",
+            //Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Error, 2000, "", Bunifu.UI.WinForms.BunifuSnackbar.Positions.MiddleCenter);
             }
             else
             {
@@ -308,6 +308,151 @@ namespace MultiFaceRec
         private void bunifuLabel1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void bunifuButton8_Click(object sender, EventArgs e)
+        {
+            FormBenTrong(new FrmThongTinDanCu());
+        }
+
+        private void bunifuToolTip1_Popup(object sender, BunifuToolTip.PopupEventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuPanel3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuDataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuDataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void search2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuGradientPanel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuShadowPanel2_ControlAdded(object sender, ControlEventArgs e)
+        {
+
+        }
+
+        private void bunifuSeparator1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void search1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuPanel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuPictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuToolTip2_Popup(object sender, BunifuToolTip.PopupEventArgs e)
+        {
+
+        }
+
+        private void bunifuToolTip3_Popup(object sender, BunifuToolTip.PopupEventArgs e)
+        {
+
+        }
+
+        private void bunifuButton9_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Do you want ,?", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                this.Close();
+                FrmDangNhap dangNhap = new FrmDangNhap();
+                dangNhap.Show();
+            }
         }
     }
 }

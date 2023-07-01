@@ -87,10 +87,11 @@ namespace MultiFaceRec
             this.tableLayoutPanel1.Controls.Add(this.flowLayoutPanel1, 1, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 566F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(963, 536);
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 703F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1284, 660);
             this.tableLayoutPanel1.TabIndex = 1;
             // 
             // tableLayoutPanel3
@@ -100,12 +101,13 @@ namespace MultiFaceRec
             this.tableLayoutPanel3.Controls.Add(this.tableLayoutPanel5, 0, 1);
             this.tableLayoutPanel3.Controls.Add(this.tableLayoutPanel4, 0, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(5, 5);
+            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(461, 560);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(615, 695);
             this.tableLayoutPanel3.TabIndex = 8;
             // 
             // tableLayoutPanel5
@@ -115,12 +117,13 @@ namespace MultiFaceRec
             this.tableLayoutPanel5.Controls.Add(this.tableLayoutPanel6, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.pictureBox2, 0, 1);
             this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 283);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(4, 351);
+            this.tableLayoutPanel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 2;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 12.68657F));
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 87.31343F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(455, 274);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(607, 340);
             this.tableLayoutPanel5.TabIndex = 1;
             // 
             // tableLayoutPanel6
@@ -134,11 +137,12 @@ namespace MultiFaceRec
             this.tableLayoutPanel6.Controls.Add(this.tableLayoutPanel8, 0, 0);
             this.tableLayoutPanel6.Controls.Add(this.bunifuLabel6, 1, 0);
             this.tableLayoutPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel6.Location = new System.Drawing.Point(3, 3);
+            this.tableLayoutPanel6.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel6.Name = "tableLayoutPanel6";
             this.tableLayoutPanel6.RowCount = 1;
             this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel6.Size = new System.Drawing.Size(449, 28);
+            this.tableLayoutPanel6.Size = new System.Drawing.Size(599, 35);
             this.tableLayoutPanel6.TabIndex = 7;
             // 
             // comboBox2
@@ -147,10 +151,10 @@ namespace MultiFaceRec
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(272, 3);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.comboBox2.Location = new System.Drawing.Point(363, 3);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(174, 21);
+            this.comboBox2.Size = new System.Drawing.Size(232, 24);
             this.comboBox2.TabIndex = 8;
             // 
             // tableLayoutPanel8
@@ -161,11 +165,12 @@ namespace MultiFaceRec
             this.tableLayoutPanel8.Controls.Add(this.bunifuButton2, 0, 0);
             this.tableLayoutPanel8.Controls.Add(this.bunifuButton1, 1, 0);
             this.tableLayoutPanel8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel8.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel8.Location = new System.Drawing.Point(5, 5);
+            this.tableLayoutPanel8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel8.Name = "tableLayoutPanel8";
             this.tableLayoutPanel8.RowCount = 1;
             this.tableLayoutPanel8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel8.Size = new System.Drawing.Size(172, 20);
+            this.tableLayoutPanel8.Size = new System.Drawing.Size(230, 25);
             this.tableLayoutPanel8.TabIndex = 9;
             // 
             // bunifuButton2
@@ -218,7 +223,8 @@ namespace MultiFaceRec
             this.bunifuButton2.IdleIconLeftImage = null;
             this.bunifuButton2.IdleIconRightImage = null;
             this.bunifuButton2.IndicateFocus = true;
-            this.bunifuButton2.Location = new System.Drawing.Point(3, 3);
+            this.bunifuButton2.Location = new System.Drawing.Point(4, 4);
+            this.bunifuButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton2.Name = "bunifuButton2";
             this.bunifuButton2.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton2.OnDisabledState.BorderRadius = 1;
@@ -252,7 +258,7 @@ namespace MultiFaceRec
             this.bunifuButton2.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton2.OnPressedState.IconLeftImage = null;
             this.bunifuButton2.OnPressedState.IconRightImage = null;
-            this.bunifuButton2.Size = new System.Drawing.Size(80, 14);
+            this.bunifuButton2.Size = new System.Drawing.Size(107, 17);
             this.bunifuButton2.TabIndex = 6;
             this.bunifuButton2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton2.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -311,7 +317,8 @@ namespace MultiFaceRec
             this.bunifuButton1.IdleIconLeftImage = null;
             this.bunifuButton1.IdleIconRightImage = null;
             this.bunifuButton1.IndicateFocus = true;
-            this.bunifuButton1.Location = new System.Drawing.Point(89, 3);
+            this.bunifuButton1.Location = new System.Drawing.Point(119, 4);
+            this.bunifuButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton1.Name = "bunifuButton1";
             this.bunifuButton1.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton1.OnDisabledState.BorderRadius = 1;
@@ -345,7 +352,7 @@ namespace MultiFaceRec
             this.bunifuButton1.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton1.OnPressedState.IconLeftImage = null;
             this.bunifuButton1.OnPressedState.IconRightImage = null;
-            this.bunifuButton1.Size = new System.Drawing.Size(80, 14);
+            this.bunifuButton1.Size = new System.Drawing.Size(107, 17);
             this.bunifuButton1.TabIndex = 1;
             this.bunifuButton1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton1.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -363,10 +370,11 @@ namespace MultiFaceRec
             this.bunifuLabel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bunifuLabel6.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bunifuLabel6.ForeColor = System.Drawing.Color.DarkRed;
-            this.bunifuLabel6.Location = new System.Drawing.Point(183, 4);
+            this.bunifuLabel6.Location = new System.Drawing.Point(244, 5);
+            this.bunifuLabel6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel6.Name = "bunifuLabel6";
             this.bunifuLabel6.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel6.Size = new System.Drawing.Size(83, 20);
+            this.bunifuLabel6.Size = new System.Drawing.Size(111, 25);
             this.bunifuLabel6.TabIndex = 7;
             this.bunifuLabel6.Text = "   CAMERA RA";
             this.bunifuLabel6.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -375,9 +383,10 @@ namespace MultiFaceRec
             // pictureBox2
             // 
             this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox2.Location = new System.Drawing.Point(3, 37);
+            this.pictureBox2.Location = new System.Drawing.Point(4, 47);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(449, 234);
+            this.pictureBox2.Size = new System.Drawing.Size(599, 289);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 8;
             this.pictureBox2.TabStop = false;
@@ -389,12 +398,13 @@ namespace MultiFaceRec
             this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel2, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.pictureBox1, 0, 1);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 3);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 2;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 12.31343F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 87.68657F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(455, 274);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(607, 339);
             this.tableLayoutPanel4.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -408,11 +418,12 @@ namespace MultiFaceRec
             this.tableLayoutPanel2.Controls.Add(this.bunifuLabel3, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel7, 0, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 3);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(449, 27);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(599, 33);
             this.tableLayoutPanel2.TabIndex = 7;
             // 
             // comboBox1
@@ -421,10 +432,10 @@ namespace MultiFaceRec
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(269, 3);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.comboBox1.Location = new System.Drawing.Point(359, 3);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(177, 21);
+            this.comboBox1.Size = new System.Drawing.Size(236, 24);
             this.comboBox1.TabIndex = 8;
             // 
             // bunifuLabel3
@@ -436,10 +447,11 @@ namespace MultiFaceRec
             this.bunifuLabel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bunifuLabel3.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bunifuLabel3.ForeColor = System.Drawing.Color.DarkRed;
-            this.bunifuLabel3.Location = new System.Drawing.Point(182, 4);
+            this.bunifuLabel3.Location = new System.Drawing.Point(243, 5);
+            this.bunifuLabel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel3.Name = "bunifuLabel3";
             this.bunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel3.Size = new System.Drawing.Size(81, 19);
+            this.bunifuLabel3.Size = new System.Drawing.Size(108, 23);
             this.bunifuLabel3.TabIndex = 7;
             this.bunifuLabel3.Text = "   CAMERA VÀO";
             this.bunifuLabel3.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -453,11 +465,12 @@ namespace MultiFaceRec
             this.tableLayoutPanel7.Controls.Add(this.bunifuButton3, 1, 0);
             this.tableLayoutPanel7.Controls.Add(this.btnBatCameraVao, 0, 0);
             this.tableLayoutPanel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel7.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel7.Location = new System.Drawing.Point(5, 5);
+            this.tableLayoutPanel7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel7.Name = "tableLayoutPanel7";
             this.tableLayoutPanel7.RowCount = 1;
             this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel7.Size = new System.Drawing.Size(171, 19);
+            this.tableLayoutPanel7.Size = new System.Drawing.Size(229, 23);
             this.tableLayoutPanel7.TabIndex = 8;
             // 
             // bunifuButton3
@@ -510,7 +523,8 @@ namespace MultiFaceRec
             this.bunifuButton3.IdleIconLeftImage = null;
             this.bunifuButton3.IdleIconRightImage = null;
             this.bunifuButton3.IndicateFocus = true;
-            this.bunifuButton3.Location = new System.Drawing.Point(88, 3);
+            this.bunifuButton3.Location = new System.Drawing.Point(118, 4);
+            this.bunifuButton3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton3.Name = "bunifuButton3";
             this.bunifuButton3.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton3.OnDisabledState.BorderRadius = 1;
@@ -544,7 +558,7 @@ namespace MultiFaceRec
             this.bunifuButton3.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton3.OnPressedState.IconLeftImage = null;
             this.bunifuButton3.OnPressedState.IconRightImage = null;
-            this.bunifuButton3.Size = new System.Drawing.Size(80, 13);
+            this.bunifuButton3.Size = new System.Drawing.Size(107, 15);
             this.bunifuButton3.TabIndex = 7;
             this.bunifuButton3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton3.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -603,7 +617,8 @@ namespace MultiFaceRec
             this.btnBatCameraVao.IdleIconLeftImage = null;
             this.btnBatCameraVao.IdleIconRightImage = null;
             this.btnBatCameraVao.IndicateFocus = true;
-            this.btnBatCameraVao.Location = new System.Drawing.Point(3, 3);
+            this.btnBatCameraVao.Location = new System.Drawing.Point(4, 4);
+            this.btnBatCameraVao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnBatCameraVao.Name = "btnBatCameraVao";
             this.btnBatCameraVao.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnBatCameraVao.OnDisabledState.BorderRadius = 1;
@@ -637,7 +652,7 @@ namespace MultiFaceRec
             this.btnBatCameraVao.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.btnBatCameraVao.OnPressedState.IconLeftImage = null;
             this.btnBatCameraVao.OnPressedState.IconRightImage = null;
-            this.btnBatCameraVao.Size = new System.Drawing.Size(79, 13);
+            this.btnBatCameraVao.Size = new System.Drawing.Size(106, 15);
             this.btnBatCameraVao.TabIndex = 6;
             this.btnBatCameraVao.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnBatCameraVao.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -649,9 +664,10 @@ namespace MultiFaceRec
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 36);
+            this.pictureBox1.Location = new System.Drawing.Point(4, 45);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(449, 235);
+            this.pictureBox1.Size = new System.Drawing.Size(599, 290);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
@@ -659,9 +675,10 @@ namespace MultiFaceRec
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(472, 4);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(629, 5);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(487, 560);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(650, 695);
             this.flowLayoutPanel1.TabIndex = 9;
             // 
             // bunifuLabel2
@@ -674,7 +691,7 @@ namespace MultiFaceRec
             this.bunifuLabel2.Location = new System.Drawing.Point(306, 51);
             this.bunifuLabel2.Name = "bunifuLabel2";
             this.bunifuLabel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel2.Size = new System.Drawing.Size(69, 15);
+            this.bunifuLabel2.Size = new System.Drawing.Size(86, 20);
             this.bunifuLabel2.TabIndex = 8;
             this.bunifuLabel2.Text = "bunifuLabel2";
             this.bunifuLabel2.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -690,7 +707,7 @@ namespace MultiFaceRec
             this.bunifuLabel1.Location = new System.Drawing.Point(306, 27);
             this.bunifuLabel1.Name = "bunifuLabel1";
             this.bunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel1.Size = new System.Drawing.Size(69, 15);
+            this.bunifuLabel1.Size = new System.Drawing.Size(86, 20);
             this.bunifuLabel1.TabIndex = 7;
             this.bunifuLabel1.Text = "bunifuLabel1";
             this.bunifuLabel1.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -706,7 +723,7 @@ namespace MultiFaceRec
             this.bunifuLabel7.Location = new System.Drawing.Point(205, 3);
             this.bunifuLabel7.Name = "bunifuLabel7";
             this.bunifuLabel7.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel7.Size = new System.Drawing.Size(75, 15);
+            this.bunifuLabel7.Size = new System.Drawing.Size(93, 20);
             this.bunifuLabel7.TabIndex = 2;
             this.bunifuLabel7.Text = " CAMERA VÀO";
             this.bunifuLabel7.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -721,7 +738,7 @@ namespace MultiFaceRec
             this.bunifuLabel4.Location = new System.Drawing.Point(55, 9);
             this.bunifuLabel4.Name = "bunifuLabel4";
             this.bunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel4.Size = new System.Drawing.Size(110, 25);
+            this.bunifuLabel4.Size = new System.Drawing.Size(139, 32);
             this.bunifuLabel4.TabIndex = 2;
             this.bunifuLabel4.Text = "bunifuLabel4";
             this.bunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -736,7 +753,7 @@ namespace MultiFaceRec
             this.bunifuLabel5.Location = new System.Drawing.Point(956, 15);
             this.bunifuLabel5.Name = "bunifuLabel5";
             this.bunifuLabel5.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel5.Size = new System.Drawing.Size(69, 15);
+            this.bunifuLabel5.Size = new System.Drawing.Size(86, 20);
             this.bunifuLabel5.TabIndex = 3;
             this.bunifuLabel5.Text = "bunifuLabel5";
             this.bunifuLabel5.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -821,7 +838,7 @@ namespace MultiFaceRec
             this.bunifuLabel8.Location = new System.Drawing.Point(208, 3);
             this.bunifuLabel8.Name = "bunifuLabel8";
             this.bunifuLabel8.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel8.Size = new System.Drawing.Size(66, 15);
+            this.bunifuLabel8.Size = new System.Drawing.Size(82, 20);
             this.bunifuLabel8.TabIndex = 2;
             this.bunifuLabel8.Text = "   CAMERA RA";
             this.bunifuLabel8.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -829,11 +846,12 @@ namespace MultiFaceRec
             // 
             // FrmTrucCamera
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(963, 536);
+            this.ClientSize = new System.Drawing.Size(1284, 660);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmTrucCamera";
             this.Text = "FrmTrucCamera";
             this.Load += new System.EventHandler(this.FrmTrucCamera_Load);
