@@ -450,6 +450,33 @@ namespace MultiFaceRec
                         }).Distinct();
             }
         }
+        public void deleteCuDan(String ma)
+        {
+            if (!ma.Equals(String.Empty))
+            {
+
+                var id = data.DANCUs.Where(s => s.MADCU == ma).FirstOrDefault();
+                if (id != null)
+                {
+                    data.DANCUs.DeleteOnSubmit(id);
+                    data.SubmitChanges();
+                    MessageBox.Show("Xóa dân cư thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+
+
+                    MessageBox.Show("Không tìm thấy thông tin dân cư!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            else
+            {
+
+
+                MessageBox.Show("Không tìm thấy thông tin dân cư!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+        } 
         public void updateCamTat1(int id)
         {
             RAVAO_TRANGTHAICAMERA tt = data.RAVAO_TRANGTHAICAMERAs.Where(k => k.ID == id).FirstOrDefault();
@@ -491,6 +518,103 @@ namespace MultiFaceRec
             {
                 return 0;
             }
+        }
+        public String getMaCuDan()
+        {
+            var cudan = from la in data.DANCUs orderby la.MADCU descending select la;
+            return cudan.FirstOrDefault().MADCU;
+        }
+        public void loadCuDan(DataGridView dgv)
+        {
+            var cudan = from la in data.DANCUs select la ;
+            dgv.DataSource = cudan;
+        }
+        public bool themCuDan(String phongDK, String name, String sex, DateTime date, String CMND, DateTime ngayCap, String noiCap, 
+            String sdt, String ngonNgu, String thuongTru, String ngheNghiep, String noiLamViec, String dantoc, String noiSinh, 
+            String queQuan, String email, String quocTich) {
+            DANCU danCu = new DANCU();
+            danCu.MADCU = Guid.NewGuid().ToString();
+            if(!phongDK.Equals(String.Empty))
+            {
+                var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
+                if(id == null)
+                {
+                    danCu.PHONG = null;
+                    if (MessageBox.Show("Không tìm thấy mã phòng đăng ký? Bạn co muon tiep tuc", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                        danCu.TRANGTHAI = false;
+                    else
+                        return false;
+                }
+                else
+                {
+                    danCu.TRANGTHAI = true;
+                }
+            }   
+            danCu.TENCUDAN = name;
+            danCu.GIOITINH = sex;
+            danCu.NGAYSINH = date;
+            danCu.CMND = CMND;
+            danCu.NGAYCAP = ngayCap;
+            danCu.NOICAP = noiCap;
+            danCu.SDT = sdt;
+            danCu.QUOCTICH = quocTich;
+            danCu.TIENGDANTOC = ngonNgu;
+            danCu.NOITHUONGTRU = thuongTru;
+            danCu.NGHENGHIEP = ngheNghiep;
+            danCu.NOILAMVIEC = noiLamViec;
+            danCu.DANTOC = dantoc;
+            danCu.NOISINH = noiSinh;
+            danCu.QUEQUAN = queQuan;
+            danCu.EMAIL = email;
+            data.DANCUs.InsertOnSubmit(danCu);
+            data.SubmitChanges();
+            return true;
+
+        }
+        public void findCuDan(String key, DataGridView dgv)
+        {
+            var cudan = data.DANCUs.Where(s => s.MADCU.Contains(key));
+            dgv.DataSource = cudan;
+        }
+        public bool updateCuDan(String phongDK, String name, String sex, DateTime date, String CMND, DateTime ngayCap, String noiCap,
+            String sdt, String ngonNgu, String thuongTru, String ngheNghiep, String noiLamViec, String dantoc, String noiSinh, String queQuan, String email)
+        {
+            DANCU danCu = new DANCU();
+            danCu.MADCU = Guid.NewGuid().ToString();
+            if (!phongDK.Equals(String.Empty))
+            {
+                var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
+                if (id == null)
+                {
+                    danCu.PHONG = null;
+                    if (MessageBox.Show("Không tìm thấy mã phòng đăng ký? Bạn co muon tiep tuc", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                        danCu.TRANGTHAI = false;
+                    else
+                        return false;
+                }
+                else
+                {
+                    danCu.TRANGTHAI = true;
+                }
+            }
+            danCu.TENCUDAN = name;
+            danCu.GIOITINH = sex;
+            danCu.NGAYSINH = date;
+            danCu.CMND = CMND;
+            danCu.NGAYCAP = ngayCap;
+            danCu.NOICAP = noiCap;
+            danCu.SDT = sdt;
+            danCu.QUOCTICH = ngonNgu;
+            danCu.NOITHUONGTRU = thuongTru;
+            danCu.NGHENGHIEP = ngheNghiep;
+            danCu.NOILAMVIEC = noiLamViec;
+            danCu.DANTOC = dantoc;
+            danCu.NOISINH = noiSinh;
+            danCu.QUEQUAN = queQuan;
+            danCu.EMAIL = email;
+            data.SubmitChanges();
+            return true;
+
         }
     }
 }
