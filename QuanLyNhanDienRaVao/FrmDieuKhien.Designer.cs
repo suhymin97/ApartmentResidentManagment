@@ -1057,6 +1057,7 @@ namespace MultiFaceRec
             this.bunifuCircleProgress4.ProgressStartCap = Bunifu.UI.WinForms.BunifuCircleProgress.CapStyles.Round;
             this.bunifuCircleProgress4.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bunifuCircleProgress4.Size = new System.Drawing.Size(120, 120);
+            this.bunifuCircleProgress4.Step = 0;
             this.bunifuCircleProgress4.SubScriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
             this.bunifuCircleProgress4.SubScriptMargin = new System.Windows.Forms.Padding(5, -20, 0, 0);
             this.bunifuCircleProgress4.SubScriptText = ".00";
@@ -1192,6 +1193,7 @@ namespace MultiFaceRec
             this.bunifuCircleProgress3.Value = 30;
             this.bunifuCircleProgress3.ValueByTransition = 30;
             this.bunifuCircleProgress3.ValueMargin = new System.Windows.Forms.Padding(0, 5, 0, 0);
+            this.bunifuCircleProgress3.ProgressChanged += new System.EventHandler<Bunifu.UI.WinForms.BunifuCircleProgress.ProgressChangedEventArgs>(this.bunifuCircleProgress3_ProgressChanged);
             // 
             // FrmDieuKhien
             // 

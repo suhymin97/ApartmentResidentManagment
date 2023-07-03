@@ -46,7 +46,7 @@ namespace MultiFaceRec
         {
             if (txtTenTK.Text == "" || txtMK.Text == "")
             {
-                bunifuSnackbar.Show(this, "Không được để trống",
+             bunifuSnackbar.Show(this, "Không được để trống",
              Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Warning, 2000, "", Bunifu.UI.WinForms.BunifuSnackbar.Positions.MiddleCenter);
             }
             else
@@ -59,6 +59,7 @@ namespace MultiFaceRec
                     home.bunifuLabel3.Text = dt.checkQuyenChucVu(txtTenTK.Text);
                     home.bunifuImageButton1.Image = toImages(dt.checkIDImage(txtTenTK.Text));
                     home.bunifuImageButton1.ActiveImage = toImages(dt.checkIDImage(txtTenTK.Text));
+                    dt.capnhatRaVaoLS(txtTenTK.Text);
                     home.Show();
                     this.Hide();                  
                 }

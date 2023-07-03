@@ -129,12 +129,20 @@ namespace MultiFaceRec
         private void btnBatCameraVao_Click(object sender, EventArgs e)
         {
             btnBatCameraVao.Enabled = false;
-            videoCapture = new VideoCaptureDevice(filterInfoCollection[comboBox1.SelectedIndex].MonikerString);
-            videoCapture.NewFrame += FrameGrabber;
-            videoCapture.Start();
-            bunifuButton3.Enabled = true;
-            //
-            dt.updateCamTat1(2);
+            if(filterInfoCollection.Count >=1)
+            {
+                videoCapture = new VideoCaptureDevice(filterInfoCollection[comboBox1.SelectedIndex].MonikerString);
+                videoCapture.NewFrame += FrameGrabber;
+                videoCapture.Start();
+                bunifuButton3.Enabled = true;
+                //
+                dt.updateCamTat1(2);
+            }    
+            else
+            {
+
+            }    
+            
         }
 
         private void imageBoxCameraVao_Click(object sender, EventArgs e)
@@ -457,7 +465,10 @@ namespace MultiFaceRec
             {
                 comboBox1.Items.Add(filterInfo.Name);
             }
-            comboBox1.SelectedIndex = 0;
+            if (comboBox1.Items.Count >= 1)
+                comboBox1.SelectedIndex = 0;
+            else
+                comboBox1.Text = "Không có camera nào!";
             videoCapture = new VideoCaptureDevice();
             //
             filterInfoCollection1 = new FilterInfoCollection(FilterCategory.VideoInputDevice);
@@ -465,7 +476,10 @@ namespace MultiFaceRec
             {
                 comboBox2.Items.Add(filterInfo.Name);
             }
-            comboBox2.SelectedIndex = 0;
+            if (comboBox2.Items.Count >= 1)
+                comboBox2.SelectedIndex = 0;
+            else
+                comboBox2.Text = "Không có camera nào!";
             videoCapture1 = new VideoCaptureDevice();
             //
             bunifuButton3.Enabled = false;

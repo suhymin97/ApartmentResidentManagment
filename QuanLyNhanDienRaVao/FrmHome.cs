@@ -387,7 +387,7 @@ namespace MultiFaceRec
 
         private void search2_TextChanged(object sender, EventArgs e)
         {
-
+            bunifuDataGridView2.DataSource = dt.searchName(search2.Text);
         }
 
         private void bunifuGradientPanel1_Click(object sender, EventArgs e)
@@ -407,7 +407,7 @@ namespace MultiFaceRec
 
         private void search1_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void bunifuLabel9_Click(object sender, EventArgs e)

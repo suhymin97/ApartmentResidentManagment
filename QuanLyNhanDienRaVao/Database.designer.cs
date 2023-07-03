@@ -54,10 +54,13 @@ namespace MultiFaceRec
     partial void InsertRAVAO_TRANGTHAICAMERA(RAVAO_TRANGTHAICAMERA instance);
     partial void UpdateRAVAO_TRANGTHAICAMERA(RAVAO_TRANGTHAICAMERA instance);
     partial void DeleteRAVAO_TRANGTHAICAMERA(RAVAO_TRANGTHAICAMERA instance);
+    partial void InsertLICHSUCAMERA(LICHSUCAMERA instance);
+    partial void UpdateLICHSUCAMERA(LICHSUCAMERA instance);
+    partial void DeleteLICHSUCAMERA(LICHSUCAMERA instance);
     #endregion
 		
 		public DatabaseDataContext() : 
-				base(global::MultiFaceRec.Properties.Settings.Default.QLyChungCuConnectionString1, mappingSource)
+				base(global::MultiFaceRec.Properties.Settings.Default.QLyChungCuConnectionString2, mappingSource)
 		{
 			OnCreated();
 		}
@@ -147,6 +150,14 @@ namespace MultiFaceRec
 			get
 			{
 				return this.GetTable<RAVAO_TRANGTHAICAMERA>();
+			}
+		}
+		
+		public System.Data.Linq.Table<LICHSUCAMERA> LICHSUCAMERAs
+		{
+			get
+			{
+				return this.GetTable<LICHSUCAMERA>();
 			}
 		}
 	}
@@ -1371,6 +1382,10 @@ namespace MultiFaceRec
 		
 		private System.DateTime _THOIGIAN;
 		
+		private System.DateTime _RA;
+		
+		private System.DateTime _Vao;
+		
 		private string _CAMERA;
 		
 		private EntityRef<DANCU> _DANCU;
@@ -1383,6 +1398,10 @@ namespace MultiFaceRec
     partial void OnIDDANCUChanged();
     partial void OnTHOIGIANChanging(System.DateTime value);
     partial void OnTHOIGIANChanged();
+    partial void OnRAChanging(System.DateTime value);
+    partial void OnRAChanged();
+    partial void OnVaoChanging(System.DateTime value);
+    partial void OnVaoChanged();
     partial void OnCAMERAChanging(string value);
     partial void OnCAMERAChanged();
     #endregion
@@ -1433,6 +1452,46 @@ namespace MultiFaceRec
 					this._THOIGIAN = value;
 					this.SendPropertyChanged("THOIGIAN");
 					this.OnTHOIGIANChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_RA", DbType="DateTime NOT NULL", IsPrimaryKey=true)]
+		public System.DateTime RA
+		{
+			get
+			{
+				return this._RA;
+			}
+			set
+			{
+				if ((this._RA != value))
+				{
+					this.OnRAChanging(value);
+					this.SendPropertyChanging();
+					this._RA = value;
+					this.SendPropertyChanged("RA");
+					this.OnRAChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Vao", DbType="DateTime NOT NULL", IsPrimaryKey=true)]
+		public System.DateTime Vao
+		{
+			get
+			{
+				return this._Vao;
+			}
+			set
+			{
+				if ((this._Vao != value))
+				{
+					this.OnVaoChanging(value);
+					this.SendPropertyChanging();
+					this._Vao = value;
+					this.SendPropertyChanged("Vao");
+					this.OnVaoChanged();
 				}
 			}
 		}
@@ -2215,6 +2274,164 @@ namespace MultiFaceRec
 						this._TAIKHOAN = default(string);
 					}
 					this.SendPropertyChanged("RAVAO_TAIKHOAN");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.LICHSUCAMERA")]
+	public partial class LICHSUCAMERA : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private string _LichSuID;
+		
+		private System.Nullable<System.DateTime> _ThoiGianBat;
+		
+		private System.Nullable<System.DateTime> _ThoiGianTat;
+		
+		private string _Camera;
+		
+		private string _TenDN;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnLichSuIDChanging(string value);
+    partial void OnLichSuIDChanged();
+    partial void OnThoiGianBatChanging(System.Nullable<System.DateTime> value);
+    partial void OnThoiGianBatChanged();
+    partial void OnThoiGianTatChanging(System.Nullable<System.DateTime> value);
+    partial void OnThoiGianTatChanged();
+    partial void OnCameraChanging(string value);
+    partial void OnCameraChanged();
+    partial void OnTenDNChanging(string value);
+    partial void OnTenDNChanged();
+    #endregion
+		
+		public LICHSUCAMERA()
+		{
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_LichSuID", DbType="NChar(10) NOT NULL", CanBeNull=false, IsPrimaryKey=true)]
+		public string LichSuID
+		{
+			get
+			{
+				return this._LichSuID;
+			}
+			set
+			{
+				if ((this._LichSuID != value))
+				{
+					this.OnLichSuIDChanging(value);
+					this.SendPropertyChanging();
+					this._LichSuID = value;
+					this.SendPropertyChanged("LichSuID");
+					this.OnLichSuIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ThoiGianBat", DbType="DateTime")]
+		public System.Nullable<System.DateTime> ThoiGianBat
+		{
+			get
+			{
+				return this._ThoiGianBat;
+			}
+			set
+			{
+				if ((this._ThoiGianBat != value))
+				{
+					this.OnThoiGianBatChanging(value);
+					this.SendPropertyChanging();
+					this._ThoiGianBat = value;
+					this.SendPropertyChanged("ThoiGianBat");
+					this.OnThoiGianBatChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ThoiGianTat", DbType="DateTime")]
+		public System.Nullable<System.DateTime> ThoiGianTat
+		{
+			get
+			{
+				return this._ThoiGianTat;
+			}
+			set
+			{
+				if ((this._ThoiGianTat != value))
+				{
+					this.OnThoiGianTatChanging(value);
+					this.SendPropertyChanging();
+					this._ThoiGianTat = value;
+					this.SendPropertyChanged("ThoiGianTat");
+					this.OnThoiGianTatChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Camera", DbType="NVarChar(200)")]
+		public string Camera
+		{
+			get
+			{
+				return this._Camera;
+			}
+			set
+			{
+				if ((this._Camera != value))
+				{
+					this.OnCameraChanging(value);
+					this.SendPropertyChanging();
+					this._Camera = value;
+					this.SendPropertyChanged("Camera");
+					this.OnCameraChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_TenDN", DbType="Char(50)")]
+		public string TenDN
+		{
+			get
+			{
+				return this._TenDN;
+			}
+			set
+			{
+				if ((this._TenDN != value))
+				{
+					this.OnTenDNChanging(value);
+					this.SendPropertyChanging();
+					this._TenDN = value;
+					this.SendPropertyChanged("TenDN");
+					this.OnTenDNChanged();
 				}
 			}
 		}

@@ -18,7 +18,8 @@ namespace MultiFaceRec
   
         public FrmDieuKhien()
         {
-            InitializeComponent();            
+            InitializeComponent();
+            loadData();
         }
 
         private void tableLayoutPanel4_Paint(object sender, PaintEventArgs e)
@@ -31,11 +32,12 @@ namespace MultiFaceRec
             bunifuDropdown1.DataSource = dt.loadCBDcu();
             bunifuDropdown1.DisplayMember = "TENCUDAN";
             bunifuDropdown1.ValueMember = "MADCU";
+            loadData();
         }
 
         private void FrmDieuKhien_Shown(object sender, EventArgs e)
         {
-
+            loadData();
         }
 
 
@@ -50,6 +52,7 @@ namespace MultiFaceRec
                     date.Year.ToString())
                     , dt.thongkeHD(bunifuDropdown1.SelectedValue.ToString(), date.Date));
             }
+            loadData();
         }
 
         private void bunifuButton1_Click_1(object sender, EventArgs e)
@@ -69,11 +72,39 @@ namespace MultiFaceRec
             }
             catch { }
             //
-            double phantram = double.Parse(((dt.loadData_notjoinKHA() / dt.tongDancu()) * 100).ToString());          
+            double phantram = double.Parse(((dt.loadData_notjoinKHA() / dt.tongDancu()) * 100).ToString());
             bunifuCircleProgress4.Value = int.Parse(Math.Round(phantram).ToString());
             bunifuCircleProgress3.Value = 100 - bunifuCircleProgress4.Value;
             bunifuLabel7.Text = dt.loadData_notjoinKHA().ToString();
             bunifuLabel5.Text = (dt.tongDancu() - dt.loadData_notjoinKHA()).ToString();
+        }
+        public void loadData()
+        {
+            bunifuRadialGauge1.Maximum = int.Parse(dt.tongDancu().ToString());
+            bunifuRadialGauge1.Value = dt.loadDanCuOut();
+            //
+            bunifuRadialGauge3.Maximum = int.Parse(dt.tongDancu().ToString());
+            bunifuRadialGauge3.Value = dt.loadDanCuIn();
+            //
+            try
+            {
+                bunifuRadialGauge2.Maximum = dt.demNguoiLa();
+                bunifuRadialGauge2.Value = dt.demNguoiLa();
+
+
+            }
+            catch { }
+            //
+            double phantram = double.Parse(((dt.loadData_notjoinKHA() / dt.tongDancu()) * 100).ToString());
+            bunifuCircleProgress4.Value = int.Parse(Math.Round(phantram).ToString());
+            bunifuCircleProgress3.Value = 100 - bunifuCircleProgress4.Value;
+            bunifuLabel7.Text = dt.loadData_notjoinKHA().ToString();
+            bunifuLabel5.Text = (dt.tongDancu() - dt.loadData_notjoinKHA()).ToString();
+        }
+
+        private void bunifuCircleProgress3_ProgressChanged(object sender, Bunifu.UI.WinForms.BunifuCircleProgress.ProgressChangedEventArgs e)
+        {
+
         }
     }
     
