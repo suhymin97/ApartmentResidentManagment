@@ -5,3 +5,6 @@ obj/*
 /QuanLyNhanDienRaVao/obj
 /QuanLyNhanDienRaVao/.vs/MultiFaceRec
 /QuanLyNhanDienRaVao/.vs/QuanLyNhanDienRaVao
+/QuanLyNhanDienRaVao/bin/*.exe
+/QuanLyNhanDienRaVao/bin/*.pdb
+/QuanLyNhanDienRaVao/bin/MultiFaceRec.exe.config
