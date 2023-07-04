@@ -98,6 +98,7 @@ namespace MultiFaceRec
             Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties59 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
             Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties60 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
             this.bunifuPanel1 = new Bunifu.UI.WinForms.BunifuPanel();
+            this.txtquoctich = new Bunifu.UI.WinForms.BunifuDropdown();
             this.cbxngonngu = new Bunifu.UI.WinForms.BunifuDropdown();
             this.cbgt = new Bunifu.UI.WinForms.BunifuDropdown();
             this.bunifuPanel3 = new Bunifu.UI.WinForms.BunifuPanel();
@@ -153,7 +154,6 @@ namespace MultiFaceRec
             this.txtmadancu = new Bunifu.UI.WinForms.BunifuTextBox();
             this.bunifuLabel1 = new Bunifu.UI.WinForms.BunifuLabel();
             this.snackBarName = new Bunifu.UI.WinForms.BunifuSnackbar(this.components);
-            this.txtquoctich = new Bunifu.UI.WinForms.BunifuDropdown();
             this.bunifuPanel1.SuspendLayout();
             this.bunifuPanel3.SuspendLayout();
             this.bunifuPanel2.SuspendLayout();
@@ -162,8 +162,8 @@ namespace MultiFaceRec
             // 
             // bunifuPanel1
             // 
-            this.bunifuPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.bunifuPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuPanel1.BackgroundColor = System.Drawing.Color.Transparent;
             this.bunifuPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuPanel1.BackgroundImage")));
@@ -228,6 +228,61 @@ namespace MultiFaceRec
             this.bunifuPanel1.Size = new System.Drawing.Size(1146, 830);
             this.bunifuPanel1.TabIndex = 0;
             this.bunifuPanel1.Click += new System.EventHandler(this.bunifuPanel1_Click);
+            // 
+            // txtquoctich
+            // 
+            this.txtquoctich.BackColor = System.Drawing.Color.Transparent;
+            this.txtquoctich.BackgroundColor = System.Drawing.Color.White;
+            this.txtquoctich.BorderColor = System.Drawing.Color.Silver;
+            this.txtquoctich.BorderRadius = 1;
+            this.txtquoctich.Color = System.Drawing.Color.Silver;
+            this.txtquoctich.Direction = Bunifu.UI.WinForms.BunifuDropdown.Directions.Down;
+            this.txtquoctich.DisabledBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.txtquoctich.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.txtquoctich.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.txtquoctich.DisabledForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            this.txtquoctich.DisabledIndicatorColor = System.Drawing.Color.DarkGray;
+            this.txtquoctich.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.txtquoctich.DropdownBorderThickness = Bunifu.UI.WinForms.BunifuDropdown.BorderThickness.Thin;
+            this.txtquoctich.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.txtquoctich.DropDownTextAlign = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left;
+            this.txtquoctich.FillDropDown = true;
+            this.txtquoctich.FillIndicator = false;
+            this.txtquoctich.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.txtquoctich.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtquoctich.ForeColor = System.Drawing.Color.Black;
+            this.txtquoctich.FormattingEnabled = true;
+            this.txtquoctich.Icon = null;
+            this.txtquoctich.IndicatorAlignment = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right;
+            this.txtquoctich.IndicatorColor = System.Drawing.Color.Gray;
+            this.txtquoctich.IndicatorLocation = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right;
+            this.txtquoctich.ItemBackColor = System.Drawing.Color.White;
+            this.txtquoctich.ItemBorderColor = System.Drawing.Color.White;
+            this.txtquoctich.ItemForeColor = System.Drawing.Color.Black;
+            this.txtquoctich.ItemHeight = 26;
+            this.txtquoctich.ItemHighLightColor = System.Drawing.Color.DodgerBlue;
+            this.txtquoctich.ItemHighLightForeColor = System.Drawing.Color.White;
+            this.txtquoctich.Items.AddRange(new object[] {
+            "Anh Quốc",
+            "Pháp",
+            "Mỹ",
+            "Úc",
+            "Canada",
+            "Nhật",
+            "Trung Quốc",
+            "Hàn Quốc",
+            "Việt Nam",
+            "Indonesia",
+            "Philipine",
+            "Khác"});
+            this.txtquoctich.ItemTopMargin = 3;
+            this.txtquoctich.Location = new System.Drawing.Point(725, 222);
+            this.txtquoctich.Name = "txtquoctich";
+            this.txtquoctich.Size = new System.Drawing.Size(96, 32);
+            this.txtquoctich.TabIndex = 112;
+            this.txtquoctich.Text = null;
+            this.txtquoctich.TextAlignment = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left;
+            this.txtquoctich.TextLeftMargin = 5;
             // 
             // cbxngonngu
             // 
@@ -610,8 +665,8 @@ namespace MultiFaceRec
             // 
             // bunifuPanel2
             // 
-            this.bunifuPanel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.bunifuPanel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuPanel2.BackgroundColor = System.Drawing.Color.Transparent;
             this.bunifuPanel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuPanel2.BackgroundImage")));
@@ -632,8 +687,8 @@ namespace MultiFaceRec
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(251)))), ((int)(((byte)(255)))));
             dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black;
             this.dgvCuDan.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            this.dgvCuDan.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.dgvCuDan.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvCuDan.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvCuDan.BorderStyle = System.Windows.Forms.BorderStyle.None;
@@ -767,7 +822,7 @@ namespace MultiFaceRec
             // bunifuLabel29
             // 
             this.bunifuLabel29.AllowParentOverrides = false;
-            this.bunifuLabel29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.bunifuLabel29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuLabel29.AutoEllipsis = false;
             this.bunifuLabel29.CursorType = null;
@@ -897,7 +952,7 @@ namespace MultiFaceRec
             // bunifuLabel21
             // 
             this.bunifuLabel21.AllowParentOverrides = false;
-            this.bunifuLabel21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.bunifuLabel21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuLabel21.AutoEllipsis = false;
             this.bunifuLabel21.CursorType = null;
@@ -915,7 +970,7 @@ namespace MultiFaceRec
             // bunifuLabel20
             // 
             this.bunifuLabel20.AllowParentOverrides = false;
-            this.bunifuLabel20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.bunifuLabel20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuLabel20.AutoEllipsis = false;
             this.bunifuLabel20.CursorType = null;
@@ -1841,7 +1896,7 @@ namespace MultiFaceRec
             this.dtngayCap.Location = new System.Drawing.Point(353, 153);
             this.dtngayCap.MinimumSize = new System.Drawing.Size(4, 32);
             this.dtngayCap.Name = "dtngayCap";
-            this.dtngayCap.Size = new System.Drawing.Size(142, 32);
+            this.dtngayCap.Size = new System.Drawing.Size(239, 32);
             this.dtngayCap.TabIndex = 70;
             // 
             // bunifuLabel9
@@ -1984,7 +2039,7 @@ namespace MultiFaceRec
             this.dtngaySinh.Location = new System.Drawing.Point(724, 92);
             this.dtngaySinh.MinimumSize = new System.Drawing.Size(4, 32);
             this.dtngaySinh.Name = "dtngaySinh";
-            this.dtngaySinh.Size = new System.Drawing.Size(142, 32);
+            this.dtngaySinh.Size = new System.Drawing.Size(239, 32);
             this.dtngaySinh.TabIndex = 64;
             // 
             // bunifuLabel6
@@ -2371,61 +2426,6 @@ namespace MultiFaceRec
             this.snackBarName.WarningOptions.Icon = ((System.Drawing.Image)(resources.GetObject("resource.Icon3")));
             this.snackBarName.WarningOptions.IconLeftMargin = 12;
             this.snackBarName.ZoomCloseIcon = true;
-            // 
-            // txtquoctich
-            // 
-            this.txtquoctich.BackColor = System.Drawing.Color.Transparent;
-            this.txtquoctich.BackgroundColor = System.Drawing.Color.White;
-            this.txtquoctich.BorderColor = System.Drawing.Color.Silver;
-            this.txtquoctich.BorderRadius = 1;
-            this.txtquoctich.Color = System.Drawing.Color.Silver;
-            this.txtquoctich.Direction = Bunifu.UI.WinForms.BunifuDropdown.Directions.Down;
-            this.txtquoctich.DisabledBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            this.txtquoctich.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            this.txtquoctich.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            this.txtquoctich.DisabledForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
-            this.txtquoctich.DisabledIndicatorColor = System.Drawing.Color.DarkGray;
-            this.txtquoctich.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.txtquoctich.DropdownBorderThickness = Bunifu.UI.WinForms.BunifuDropdown.BorderThickness.Thin;
-            this.txtquoctich.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.txtquoctich.DropDownTextAlign = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left;
-            this.txtquoctich.FillDropDown = true;
-            this.txtquoctich.FillIndicator = false;
-            this.txtquoctich.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.txtquoctich.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtquoctich.ForeColor = System.Drawing.Color.Black;
-            this.txtquoctich.FormattingEnabled = true;
-            this.txtquoctich.Icon = null;
-            this.txtquoctich.IndicatorAlignment = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right;
-            this.txtquoctich.IndicatorColor = System.Drawing.Color.Gray;
-            this.txtquoctich.IndicatorLocation = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right;
-            this.txtquoctich.ItemBackColor = System.Drawing.Color.White;
-            this.txtquoctich.ItemBorderColor = System.Drawing.Color.White;
-            this.txtquoctich.ItemForeColor = System.Drawing.Color.Black;
-            this.txtquoctich.ItemHeight = 26;
-            this.txtquoctich.ItemHighLightColor = System.Drawing.Color.DodgerBlue;
-            this.txtquoctich.ItemHighLightForeColor = System.Drawing.Color.White;
-            this.txtquoctich.Items.AddRange(new object[] {
-            "Anh Quốc",
-            "Pháp",
-            "Mỹ",
-            "Úc",
-            "Canada",
-            "Nhật",
-            "Trung Quốc",
-            "Hàn Quốc",
-            "Việt Nam",
-            "Indonesia",
-            "Philipine",
-            "Khác"});
-            this.txtquoctich.ItemTopMargin = 3;
-            this.txtquoctich.Location = new System.Drawing.Point(725, 222);
-            this.txtquoctich.Name = "txtquoctich";
-            this.txtquoctich.Size = new System.Drawing.Size(96, 32);
-            this.txtquoctich.TabIndex = 112;
-            this.txtquoctich.Text = null;
-            this.txtquoctich.TextAlignment = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left;
-            this.txtquoctich.TextLeftMargin = 5;
             // 
             // FrmThongTinDanCu
             // 
