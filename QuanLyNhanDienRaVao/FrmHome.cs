@@ -407,7 +407,11 @@ namespace MultiFaceRec
 
         private void search1_TextChanged(object sender, EventArgs e)
         {
-
+            bunifuDataGridView1.DataSource = dt.coHA("");
+            bunifuDataGridView1.Columns[0].HeaderText = "Mã dân cư";
+            bunifuDataGridView1.Columns[1].HeaderText = "Tên dân cư";
+            bunifuDataGridView1.Columns[2].HeaderText = "Mã phòng";
+            dt.searchNameHome(search1.Text);
         }
 
         private void bunifuLabel9_Click(object sender, EventArgs e)

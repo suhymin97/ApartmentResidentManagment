@@ -103,8 +103,10 @@ namespace MultiFaceRec
 
         private void btnsua_Click(object sender, EventArgs e)
         {
+
             if (validate() == true)
             {
+                string madancu = txtmadancu.Text;
                 String phongDK = txtphongdk.Text;
                 String name = txtName.Text;
                 String sex = cbgt.Text;
@@ -121,7 +123,7 @@ namespace MultiFaceRec
                 String noiSinh = txtnoisinh.Text;
                 String queQuan = txtquequan.Text;
                 String email = txtemail.Text;
-                var result = dt.updateCuDan(phongDK, name, sex, date, CMND, ngayCap, noiCap, sdt, ngonNgu, thuongTru, ngheNghiep, noiLamViec, dantoc, noiSinh, queQuan, email);
+                var result = dt.updateCuDan(madancu,phongDK, name, sex, date, CMND, ngayCap, noiCap, sdt, ngonNgu, thuongTru, ngheNghiep, noiLamViec, dantoc, noiSinh, queQuan, email);
                 if (result == true)
                     MessageBox.Show("Thành công", "Caption", MessageBoxButtons.OK);
                 resetData();

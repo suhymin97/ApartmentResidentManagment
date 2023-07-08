@@ -450,6 +450,18 @@ namespace MultiFaceRec
                         }).Distinct();
             }
         }
+
+        public IQueryable searchNameHome(String key)
+        {
+            return (from c in data.DANCUs
+                    where c.TENCUDAN.Equals(key)
+                    select new
+                    {
+                        c.MADCU,
+                        c.TENCUDAN,
+                        c.MAPHONG,
+                    });
+        }
         public void deleteCuDan(String ma)
         {
             if (!ma.Equals(String.Empty))
@@ -576,11 +588,10 @@ namespace MultiFaceRec
             var cudan = data.DANCUs.Where(s => s.MADCU.Contains(key));
             dgv.DataSource = cudan;
         }
-        public bool updateCuDan(String phongDK, String name, String sex, DateTime date, String CMND, DateTime ngayCap, String noiCap,
+        public bool updateCuDan(string madancu,String phongDK, String name, String sex, DateTime date, String CMND, DateTime ngayCap, String noiCap,
             String sdt, String ngonNgu, String thuongTru, String ngheNghiep, String noiLamViec, String dantoc, String noiSinh, String queQuan, String email)
         {
-            DANCU danCu = new DANCU();
-            danCu.MADCU = Guid.NewGuid().ToString();
+            DANCU danCu = data.DANCUs.Where(i => i.MADCU.Equals(madancu)).FirstOrDefault();
             if (!phongDK.Equals(String.Empty))
             {
                 var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
