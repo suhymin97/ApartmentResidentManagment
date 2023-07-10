@@ -454,5 +454,15 @@ namespace MultiFaceRec
                 dangNhap.Show();
             }
         }
+
+        private void bunifuButton10_Click(object sender, EventArgs e)
+        {
+            FormBenTrong(new FrmKiemSoatCamera());
+        }
+
+        private void bunifuButton11_Click(object sender, EventArgs e)
+        {
+            FormBenTrong(new FrmPhong());
+        }
     }
 }

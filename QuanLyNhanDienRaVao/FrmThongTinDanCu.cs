@@ -21,11 +21,13 @@ namespace MultiFaceRec
         }
         public bool validate()
         {
+            if (dtngayCap.Text.Equals(Convert.ToDateTime("1/1/1753").ToString()) || dtngaySinh.Text.Equals(Convert.ToDateTime("1/1/1753").ToString()))
+                return false;
             // ho ten
             if (txtName.Text == "" || cbgt.Text == "" || dtngaySinh.Text == "" || txtcmnd.Text == ""
                 || dtngayCap.Text == "" || txtnoicap.Text == "" || txtsdt.Text == "" || txtthuongchu.Text == "")
             {
-                snackBarName.Show(this, "Không được để trống các trường required có dấu *!",
+                snackBarName.Show(this, "Không được để trống các trường có dấu *",
              Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Warning, 2000, "", Bunifu.UI.WinForms.BunifuSnackbar.Positions.MiddleCenter);
                 return false;
             }
@@ -130,16 +132,24 @@ namespace MultiFaceRec
                     }   
                     else
                     {
-                        MessageBox.Show("Số phòng đã quá số người cho phép", "Thông báo",
-                                MessageBoxButtons.OK,
-                                MessageBoxIcon.Information);
                         return;
                     }    
 
                 }    
                     
                 else
+                if (dt.checkMaxPerson(txtphongdk.Text))
+                {
                     dt.updateCuDan(txtmadancu.Text, phongDK, name, sex, date, CMND, ngayCap, noiCap, sdt, ngonNgu, thuongTru, ngheNghiep, noiLamViec, dantoc, noiSinh, queQuan, email, quocTich);
+                }
+                else
+                {
+                    MessageBox.Show("Số phòng đã quá số người cho phép", "Thông báo",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information);
+                    return;
+                }
+                    
                 dt.loadCuDan(dgvCuDan);
                 resetData();
 
@@ -153,9 +163,16 @@ namespace MultiFaceRec
             txtphongdk.Text = dgvCuDan.CurrentRow.Cells[18].Value == null ? "" : dgvCuDan.CurrentRow.Cells[18].Value.ToString();
             txtName.Text = dgvCuDan.CurrentRow.Cells[2].Value == null ? "" : dgvCuDan.CurrentRow.Cells[2].Value.ToString();
             cbgt.Text = dgvCuDan.CurrentRow.Cells[4].Value == null ? "" : dgvCuDan.CurrentRow.Cells[4].Value.ToString();
-            dtngaySinh.Value = Convert.ToDateTime(dgvCuDan.CurrentRow.Cells[3].Value);
-            txtcmnd.Text = dgvCuDan.CurrentRow.Cells[1].Value == null ? "" : dgvCuDan.CurrentRow.Cells[1].Value.ToString();
-            dtngayCap.Value = Convert.ToDateTime(dgvCuDan.CurrentRow.Cells[11].Value);
+            cbgt.Text = dgvCuDan.CurrentRow.Cells[4].Value == null ? "" : dgvCuDan.CurrentRow.Cells[4].Value.ToString();
+            if (dgvCuDan.CurrentRow.Cells[3].Value != null)
+                dtngaySinh.Value = Convert.ToDateTime(dgvCuDan.CurrentRow.Cells[3].Value);
+            else
+                dtngaySinh.Value = Convert.ToDateTime("1/1/1753");
+            txtcmnd.Text = dgvCuDan.CurrentRow.Cells[6].Value == null ? "" : dgvCuDan.CurrentRow.Cells[6].Value.ToString();
+            if (dgvCuDan.CurrentRow.Cells[11].Value != null)
+                dtngayCap.Value = Convert.ToDateTime(dgvCuDan.CurrentRow.Cells[11].Value);
+            else
+                dtngayCap.Value = Convert.ToDateTime("1/1/1753");
 
             txtnoicap.Text = dgvCuDan.CurrentRow.Cells[12].Value == null ? "" : dgvCuDan.CurrentRow.Cells[12].Value.ToString();
             txtsdt.Text = dgvCuDan.CurrentRow.Cells[7].Value == null ? "" : dgvCuDan.CurrentRow.Cells[7].Value.ToString();
@@ -173,6 +190,16 @@ namespace MultiFaceRec
         private void bunifuTextBox16_TextChanged(object sender, EventArgs e)
         {
             dt.findCuDan(txtsearch.Text, dgvCuDan);
+        }
+
+        private void FrmThongTinDanCu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dtngayCap_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

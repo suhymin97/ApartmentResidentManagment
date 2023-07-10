@@ -92,11 +92,11 @@ namespace MultiFaceRec
         {
             bunifuButton1.Enabled = true;
             bunifuButton2.Enabled = false;
-            videoCapture1 = new VideoCaptureDevice(filterInfoCollection1[comboBox2.SelectedIndex].MonikerString);
+            videoCapture1 = new VideoCaptureDevice(filterInfoCollection1[cbcamera2.SelectedIndex].MonikerString);
             videoCapture1.NewFrame += FrameGrabber1;
             videoCapture1.Start();
             //
-            dt.updateCamTat1(1);
+            dt.updateCamTat1(1, cbcamera2.Text);
         }
 
         //
@@ -131,12 +131,12 @@ namespace MultiFaceRec
             btnBatCameraVao.Enabled = false;
             if(filterInfoCollection.Count >=1)
             {
-                videoCapture = new VideoCaptureDevice(filterInfoCollection[comboBox1.SelectedIndex].MonikerString);
+                videoCapture = new VideoCaptureDevice(filterInfoCollection[cbcamera.SelectedIndex].MonikerString);
                 videoCapture.NewFrame += FrameGrabber;
                 videoCapture.Start();
                 bunifuButton3.Enabled = true;
                 //
-                dt.updateCamTat1(2);
+                dt.updateCamTat1(2,cbcamera.Text);
             }    
             else
             {
@@ -463,23 +463,23 @@ namespace MultiFaceRec
             filterInfoCollection = new FilterInfoCollection(FilterCategory.VideoInputDevice);
             foreach (FilterInfo filterInfo in filterInfoCollection)
             {
-                comboBox1.Items.Add(filterInfo.Name);
+                cbcamera.Items.Add(filterInfo.Name);
             }
-            if (comboBox1.Items.Count >= 1)
-                comboBox1.SelectedIndex = 0;
+            if (cbcamera.Items.Count >= 1)
+                cbcamera.SelectedIndex = 0;
             else
-                comboBox1.Text = "Không có camera nào!";
+                cbcamera.Text = "Không có camera nào!";
             videoCapture = new VideoCaptureDevice();
             //
             filterInfoCollection1 = new FilterInfoCollection(FilterCategory.VideoInputDevice);
             foreach (FilterInfo filterInfo in filterInfoCollection1)
             {
-                comboBox2.Items.Add(filterInfo.Name);
+                cbcamera2.Items.Add(filterInfo.Name);
             }
-            if (comboBox2.Items.Count >= 1)
-                comboBox2.SelectedIndex = 0;
+            if (cbcamera2.Items.Count >= 1)
+                cbcamera2.SelectedIndex = 0;
             else
-                comboBox2.Text = "Không có camera nào!";
+                cbcamera2.Text = "Không có camera nào!";
             videoCapture1 = new VideoCaptureDevice();
             //
             bunifuButton3.Enabled = false;

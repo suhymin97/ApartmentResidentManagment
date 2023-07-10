@@ -15,6 +15,7 @@ namespace MultiFaceRec
     {
         DatabaseDataContext data = new DatabaseDataContext();
         public static string dn = "";
+        public static string idLs;
         public double loadData_notjoinKHA()
         {
             return data.DANCUs.Where(s => !data.RAVAO_HINHs.Where(es => es.IDDANCU == s.MADCU).Any()).Count();
@@ -27,6 +28,66 @@ namespace MultiFaceRec
                 return 1;
             }
             return 0;
+        }
+        public void themPhong(string ma,string gia,string songuoi,string tinhtrang,string sophong, bool them)
+        {
+            var check = data.PHONGs.Where(c => c.MAPHONG.Equals(ma)).FirstOrDefault();
+            if(check == null)
+            {
+                if(them && MessageBox.Show("Mã phòng đã có bạn có muốn cập nhật nó!", "Caption", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+                {
+                    check.GIAPHONG = int.Parse(gia);
+                    check.SONGUOI = songuoi;
+                    check.TINHTRANGPHONG = tinhtrang;
+                    check.SOPHONG = sophong;
+                    data.SubmitChanges();
+                    MessageBox.Show("Cập nhật thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;
+                }
+                else
+                {
+                    
+                       PHONG p = new PHONG();
+                       p.MAPHONG = ma;
+                        p.GIAPHONG = int.Parse(gia);
+                        p.SONGUOI = songuoi;
+                        p.TINHTRANGPHONG = tinhtrang;
+                        p.SOPHONG = sophong;
+                        data.PHONGs.InsertOnSubmit(p);
+                        data.SubmitChanges();
+                        MessageBox.Show("Thêm mới thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        return;
+                    
+                }
+            }
+            check.GIAPHONG = int.Parse(gia);
+            check.SONGUOI = songuoi;
+            check.TINHTRANGPHONG = tinhtrang;
+            check.SOPHONG = sophong;
+            data.SubmitChanges();
+            MessageBox.Show("Cập nhật thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        public void deletePhong(string key)
+        {
+            var phong = data.PHONGs.Where(c => c.MAPHONG.Equals(key)).FirstOrDefault();
+            if(phong ==  null)
+            {
+                MessageBox.Show("Không có phòng này!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+            data.PHONGs.DeleteOnSubmit(phong);
+            data.SubmitChanges();
+            MessageBox.Show("Xóa phòng thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        public void findPhong(DataGridView dgv,string key)
+        {
+            var phong = from c in data.PHONGs where c.MAPHONG.Contains(key) select new { c.MAPHONG, c.GIAPHONG, c.SONGUOI, c.TINHTRANGPHONG, c.SOPHONG };
+            dgv.DataSource = phong;
+        }
+        public void loadPhong(DataGridView dgv)
+        {
+            var phong = from c in data.PHONGs select new { c.MAPHONG, c.GIAPHONG, c.SONGUOI, c.TINHTRANGPHONG, c.SOPHONG};
+        dgv.DataSource = phong;
         }
         public void capnhatRaVaoLS(string name)
         {
@@ -397,6 +458,40 @@ namespace MultiFaceRec
             var ls = from la in data.LICHSUCAMERAs where la.ThoiGianBat.Equals(date) select la;
             dgv.DataSource = lamat;
         }
+        public void LoadCAMERA(DataGridView dgv)
+        {
+            //string date = "";
+            //if (rd1.Checked)
+            //{
+            //    date = "";
+            //}
+            //else
+            //{
+            //    date = "";
+            //    date += dtpick.Value.Day.ToString();
+            //    date += "/" + dtpick.Value.Month.ToString();
+            //    date += "/" + dtpick.Value.Year.ToString();
+            //}
+            var ls = from la in data.LICHSUCAMERAs select la ;
+            dgv.DataSource = ls;
+        }
+        public void loadCameraDate(DataGridView dgv)
+        {
+            //string date = "";
+            //if (rd1.Checked)
+            //{
+            //    date = "";
+            //}
+            //else
+            //{
+            //    date = "";
+            //    date += dtpick.Value.Day.ToString();
+            //    date += "/" + dtpick.Value.Month.ToString();
+            //    date += "/" + dtpick.Value.Year.ToString();
+            //}
+            var ls = data.LICHSUCAMERAs;
+            dgv.DataSource = ls;
+        }
         public IQueryable loadCBDcu()
         {
             return data.DANCUs.Where(s => data.RAVAO_THOILUONGs.Where(es => es.ID_DANCU == s.MADCU).Any()).Select(s => s);
@@ -498,11 +593,17 @@ namespace MultiFaceRec
 
         }
         //bat
-        public void updateCamTat1(int id)
+        public void updateCamTat1(int id,string name)
         {
             RAVAO_TRANGTHAICAMERA tt = data.RAVAO_TRANGTHAICAMERAs.Where(k => k.ID == id).FirstOrDefault();
-            LICHSUCAMERA ls = data.LICHSUCAMERAs.Where(item => item.TenDN.Equals(dn)).FirstOrDefault();
-            ls.ThoiGianBat = DateTime.Now;
+            LICHSUCAMERA ls = new LICHSUCAMERA();
+            ls.ThoiGianBat = DateTime.UtcNow;
+            idLs = (data.LICHSUCAMERAs.Count() + 1).ToString();
+            ls.LichSuID = idLs;
+            ls.TenDN = dn;
+            ls.Camera = name;
+            data.LICHSUCAMERAs.InsertOnSubmit(ls);
+            data.SubmitChanges();
             if (tt != null)
             {
                 tt.TRANGTHAI = 1;
@@ -512,8 +613,10 @@ namespace MultiFaceRec
         public void updateCamTat0(int id)
         {
             RAVAO_TRANGTHAICAMERA tt = data.RAVAO_TRANGTHAICAMERAs.Where(k => k.ID == id).FirstOrDefault();
-            LICHSUCAMERA ls = data.LICHSUCAMERAs.Where(item => item.TenDN.Equals(dn)).FirstOrDefault();
-            ls.ThoiGianBat = DateTime.Now;
+            LICHSUCAMERA ls = data.LICHSUCAMERAs.Where(item=>item.LichSuID.Equals(idLs)).FirstOrDefault();
+            if(ls!=null)
+            ls.ThoiGianTat = DateTime.UtcNow;
+            data.SubmitChanges();
             if (tt != null)
             {
                 tt.TRANGTHAI = 0;
@@ -551,7 +654,7 @@ namespace MultiFaceRec
         }
         public void loadCuDan(DataGridView dgv)
         {
-            var cudan = from la in data.DANCUs select la;
+            var cudan = from la in data.DANCUs orderby la.MADCU select la;
             dgv.DataSource = cudan;
         }
         public bool themCuDan(string key, string phongDK, string name, string sex, DateTime date, string CMND, DateTime ngayCap, string noiCap,
@@ -560,9 +663,9 @@ namespace MultiFaceRec
         {
             DANCU danCu = new DANCU();
             danCu.MADCU = key;
+            var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
             if (!phongDK.Equals(String.Empty))
             {
-                var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
                 if (id == null)
                 {
                     danCu.PHONG = null;
@@ -576,6 +679,7 @@ namespace MultiFaceRec
                     danCu.TRANGTHAI = true;
                 }
             }
+            danCu.PHONG = id;
             danCu.TENCUDAN = name;
             danCu.GIOITINH = sex;
             danCu.NGAYSINH = date;
@@ -600,7 +704,12 @@ namespace MultiFaceRec
         }
         public void findCuDan(String key, DataGridView dgv)
         {
-            var cudan = data.DANCUs.Where(s => s.MADCU.Contains(key));
+            var cudan = data.DANCUs.Where(s => s.MADCU.Contains(key) || s.TENCUDAN.Contains(key));
+            dgv.DataSource = cudan;
+        }
+        public void findName(String key, DataGridView dgv)
+        {
+            var cudan = data.DANCUs.Where(s => s.TENCUDAN.Contains(key));
             dgv.DataSource = cudan;
         }
         public IQueryable searchName(String key)
@@ -617,12 +726,15 @@ namespace MultiFaceRec
         }
         public bool checkMaxPerson(String key)
         {
-            int phong = data.PHONGs.Where(i => i.MAPHONG.Equals(key)).Count();
+            PHONG phong = data.PHONGs.Where(i => i.MAPHONG.Equals(key)).FirstOrDefault();
             int dancu = data.DANCUs.Where(item => item.MAPHONG.Equals(key)).Count();
-            if (dancu +1 <= phong)
+            if (phong.SONGUOI != null && dancu + 1 <= int.Parse(phong.SONGUOI))
             {
                 return true;
             }
+            else
+                if (MessageBox.Show("Phòng đã đầy bạn có muốn tiếp tục", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                return true;
             return false;
 
         }
@@ -630,9 +742,10 @@ namespace MultiFaceRec
             string sdt, string ngonNgu, string thuongTru, string ngheNghiep, string noiLamViec, string dantoc, string noiSinh, string queQuan, string email, string quocTich)
         {
             DANCU danCu = data.DANCUs.Where(i => i.MADCU.Equals(key)).FirstOrDefault();
+            var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
             if (!phongDK.Equals(string.Empty))
             {
-                var id = data.PHONGs.Where(s => s.MAPHONG == phongDK).FirstOrDefault();
+                
                 if (id == null)
                 {
                     danCu.PHONG = null;
@@ -646,6 +759,7 @@ namespace MultiFaceRec
                     danCu.TRANGTHAI = true;
                 }
             }
+            danCu.PHONG = id;
             danCu.TENCUDAN = name;
             danCu.GIOITINH = sex;
             danCu.NGAYSINH = date;
