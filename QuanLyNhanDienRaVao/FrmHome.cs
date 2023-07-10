@@ -457,7 +457,7 @@ namespace MultiFaceRec
 
         private void bunifuButton10_Click(object sender, EventArgs e)
         {
-            FormBenTrong(new FrmKiemSoatCamera());
+            //FormBenTrong(new FrmKiemSoatCamera());
         }
 
         private void bunifuButton11_Click(object sender, EventArgs e)
