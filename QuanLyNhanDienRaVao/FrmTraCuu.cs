@@ -240,5 +240,10 @@ namespace MultiFaceRec
             bunifuPages1.SetPage(0);
             flowLayoutPanel1.Controls.Clear();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -90,7 +90,7 @@ namespace MultiFaceRec
             this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 711F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 712F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(1284, 660);
             this.tableLayoutPanel1.TabIndex = 1;
             // 
@@ -107,7 +107,7 @@ namespace MultiFaceRec
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(615, 703);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(615, 704);
             this.tableLayoutPanel3.TabIndex = 8;
             // 
             // tableLayoutPanel5
@@ -117,7 +117,7 @@ namespace MultiFaceRec
             this.tableLayoutPanel5.Controls.Add(this.tableLayoutPanel6, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.pictureBox2, 0, 1);
             this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(4, 355);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(4, 356);
             this.tableLayoutPanel5.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 2;
@@ -404,7 +404,7 @@ namespace MultiFaceRec
             this.tableLayoutPanel4.RowCount = 2;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 12.31343F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 87.68657F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(607, 343);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(607, 344);
             this.tableLayoutPanel4.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -667,7 +667,7 @@ namespace MultiFaceRec
             this.pictureBox1.Location = new System.Drawing.Point(4, 46);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(599, 293);
+            this.pictureBox1.Size = new System.Drawing.Size(599, 294);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
@@ -678,7 +678,7 @@ namespace MultiFaceRec
             this.flowLayoutPanel1.Location = new System.Drawing.Point(629, 5);
             this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(650, 703);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(650, 704);
             this.flowLayoutPanel1.TabIndex = 9;
             // 
             // bunifuLabel2

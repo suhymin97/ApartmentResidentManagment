@@ -34,21 +34,9 @@ namespace MultiFaceRec
             var check = data.PHONGs.Where(c => c.MAPHONG.Equals(ma)).FirstOrDefault();
             if(check == null)
             {
-                if(them && MessageBox.Show("Mã phòng đã có bạn có muốn cập nhật nó!", "Caption", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
-                {
-                    check.GIAPHONG = int.Parse(gia);
-                    check.SONGUOI = songuoi;
-                    check.TINHTRANGPHONG = tinhtrang;
-                    check.SOPHONG = sophong;
-                    data.SubmitChanges();
-                    MessageBox.Show("Cập nhật thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    return;
-                }
-                else
-                {
-                    
-                       PHONG p = new PHONG();
-                       p.MAPHONG = ma;
+                
+                     PHONG p = new PHONG();
+                      p.MAPHONG = ma;
                         p.GIAPHONG = int.Parse(gia);
                         p.SONGUOI = songuoi;
                         p.TINHTRANGPHONG = tinhtrang;
@@ -58,7 +46,32 @@ namespace MultiFaceRec
                         MessageBox.Show("Thêm mới thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         return;
                     
-                }
+                
+            }
+            if (them && MessageBox.Show("Mã phòng đã có bạn có muốn cập nhật nó!", "Caption", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+            {
+                check.GIAPHONG = int.Parse(gia);
+                check.SONGUOI = songuoi;
+                check.TINHTRANGPHONG = tinhtrang;
+                check.SOPHONG = sophong;
+                data.SubmitChanges();
+                MessageBox.Show("Cập nhật thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+            if(them)
+            {
+
+                PHONG p = new PHONG();
+                p.MAPHONG = ma;
+                p.GIAPHONG = int.Parse(gia);
+                p.SONGUOI = songuoi;
+                p.TINHTRANGPHONG = tinhtrang;
+                p.SOPHONG = sophong;
+                data.PHONGs.InsertOnSubmit(p);
+                data.SubmitChanges();
+                MessageBox.Show("Thêm mới thành công!", "Caption", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+
             }
             check.GIAPHONG = int.Parse(gia);
             check.SONGUOI = songuoi;

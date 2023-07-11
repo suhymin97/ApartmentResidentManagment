@@ -120,9 +120,10 @@ namespace MultiFaceRec
             this.bunifuPanel1.Controls.Add(this.bunifuPages1);
             this.bunifuPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bunifuPanel1.Location = new System.Drawing.Point(0, 0);
+            this.bunifuPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuPanel1.Name = "bunifuPanel1";
             this.bunifuPanel1.ShowBorders = true;
-            this.bunifuPanel1.Size = new System.Drawing.Size(963, 579);
+            this.bunifuPanel1.Size = new System.Drawing.Size(1284, 713);
             this.bunifuPanel1.TabIndex = 3;
             // 
             // bunifuPages1
@@ -133,6 +134,7 @@ namespace MultiFaceRec
             this.bunifuPages1.Controls.Add(this.tabPage2);
             this.bunifuPages1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bunifuPages1.Location = new System.Drawing.Point(0, 0);
+            this.bunifuPages1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuPages1.Multiline = true;
             this.bunifuPages1.Name = "bunifuPages1";
             this.bunifuPages1.Page = this.tabPage1;
@@ -140,7 +142,7 @@ namespace MultiFaceRec
             this.bunifuPages1.PageName = "tabPage1";
             this.bunifuPages1.PageTitle = "tabPage1";
             this.bunifuPages1.SelectedIndex = 0;
-            this.bunifuPages1.Size = new System.Drawing.Size(963, 579);
+            this.bunifuPages1.Size = new System.Drawing.Size(1284, 713);
             this.bunifuPages1.TabIndex = 1;
             animation1.AnimateOnlyDifferences = false;
             animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
@@ -174,9 +176,10 @@ namespace MultiFaceRec
             this.tabPage1.Controls.Add(this.bunifuButton5);
             this.tabPage1.Controls.Add(this.bunifuTextBox2);
             this.tabPage1.Location = new System.Drawing.Point(4, 4);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(955, 553);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage1.Size = new System.Drawing.Size(1276, 684);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -216,9 +219,10 @@ namespace MultiFaceRec
             this.bunifuDropdown1.ItemHighLightColor = System.Drawing.Color.DodgerBlue;
             this.bunifuDropdown1.ItemHighLightForeColor = System.Drawing.Color.White;
             this.bunifuDropdown1.ItemTopMargin = 3;
-            this.bunifuDropdown1.Location = new System.Drawing.Point(469, 15);
+            this.bunifuDropdown1.Location = new System.Drawing.Point(625, 18);
+            this.bunifuDropdown1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuDropdown1.Name = "bunifuDropdown1";
-            this.bunifuDropdown1.Size = new System.Drawing.Size(107, 37);
+            this.bunifuDropdown1.Size = new System.Drawing.Size(141, 37);
             this.bunifuDropdown1.TabIndex = 40;
             this.bunifuDropdown1.Text = "Tên phòng";
             this.bunifuDropdown1.TextAlignment = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left;
@@ -235,10 +239,11 @@ namespace MultiFaceRec
             this.bunifuLabel7.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
             this.bunifuLabel7.ForeColor = System.Drawing.Color.Black;
             this.bunifuLabel7.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.bunifuLabel7.Location = new System.Drawing.Point(89, 432);
+            this.bunifuLabel7.Location = new System.Drawing.Point(119, 532);
+            this.bunifuLabel7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel7.Name = "bunifuLabel7";
             this.bunifuLabel7.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel7.Size = new System.Drawing.Size(28, 15);
+            this.bunifuLabel7.Size = new System.Drawing.Size(36, 21);
             this.bunifuLabel7.TabIndex = 32;
             this.bunifuLabel7.Text = "TEXT";
             this.bunifuLabel7.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -254,10 +259,11 @@ namespace MultiFaceRec
             this.bunifuLabel9.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
             this.bunifuLabel9.ForeColor = System.Drawing.SystemColors.ButtonShadow;
             this.bunifuLabel9.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.bunifuLabel9.Location = new System.Drawing.Point(8, 432);
+            this.bunifuLabel9.Location = new System.Drawing.Point(11, 532);
+            this.bunifuLabel9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel9.Name = "bunifuLabel9";
             this.bunifuLabel9.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel9.Size = new System.Drawing.Size(74, 15);
+            this.bunifuLabel9.Size = new System.Drawing.Size(95, 21);
             this.bunifuLabel9.TabIndex = 29;
             this.bunifuLabel9.Text = "Tổng dân cư :";
             this.bunifuLabel9.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -274,11 +280,11 @@ namespace MultiFaceRec
             this.bunifuSeparator1.LineColor = System.Drawing.Color.CadetBlue;
             this.bunifuSeparator1.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid;
             this.bunifuSeparator1.LineThickness = 2;
-            this.bunifuSeparator1.Location = new System.Drawing.Point(43, 53);
-            this.bunifuSeparator1.Margin = new System.Windows.Forms.Padding(4);
+            this.bunifuSeparator1.Location = new System.Drawing.Point(57, 65);
+            this.bunifuSeparator1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.bunifuSeparator1.Name = "bunifuSeparator1";
             this.bunifuSeparator1.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Horizontal;
-            this.bunifuSeparator1.Size = new System.Drawing.Size(1023, 18);
+            this.bunifuSeparator1.Size = new System.Drawing.Size(1364, 22);
             this.bunifuSeparator1.TabIndex = 39;
             // 
             // bunifuLabel8
@@ -291,10 +297,11 @@ namespace MultiFaceRec
             this.bunifuLabel8.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
             this.bunifuLabel8.ForeColor = System.Drawing.SystemColors.ButtonShadow;
             this.bunifuLabel8.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.bunifuLabel8.Location = new System.Drawing.Point(48, 411);
+            this.bunifuLabel8.Location = new System.Drawing.Point(64, 506);
+            this.bunifuLabel8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel8.Name = "bunifuLabel8";
             this.bunifuLabel8.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel8.Size = new System.Drawing.Size(35, 15);
+            this.bunifuLabel8.Size = new System.Drawing.Size(44, 21);
             this.bunifuLabel8.TabIndex = 30;
             this.bunifuLabel8.Text = "Filter :";
             this.bunifuLabel8.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -341,7 +348,8 @@ namespace MultiFaceRec
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
             this.dataGridView1.EnableHeadersVisualStyles = false;
-            this.dataGridView1.Location = new System.Drawing.Point(8, 79);
+            this.dataGridView1.Location = new System.Drawing.Point(11, 97);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
@@ -358,8 +366,9 @@ namespace MultiFaceRec
             this.dataGridView1.RowTemplate.Height = 40;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(1107, 310);
+            this.dataGridView1.Size = new System.Drawing.Size(1476, 382);
             this.dataGridView1.TabIndex = 38;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
             // 
             // Column1
@@ -410,10 +419,11 @@ namespace MultiFaceRec
             this.bunifuLabel4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
             this.bunifuLabel4.ForeColor = System.Drawing.Color.Black;
             this.bunifuLabel4.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.bunifuLabel4.Location = new System.Drawing.Point(89, 411);
+            this.bunifuLabel4.Location = new System.Drawing.Point(119, 506);
+            this.bunifuLabel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuLabel4.Name = "bunifuLabel4";
             this.bunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel4.Size = new System.Drawing.Size(28, 15);
+            this.bunifuLabel4.Size = new System.Drawing.Size(36, 21);
             this.bunifuLabel4.TabIndex = 31;
             this.bunifuLabel4.Text = "TEXT";
             this.bunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -467,7 +477,8 @@ namespace MultiFaceRec
             this.bunifuButton3.IdleIconLeftImage = null;
             this.bunifuButton3.IdleIconRightImage = null;
             this.bunifuButton3.IndicateFocus = false;
-            this.bunifuButton3.Location = new System.Drawing.Point(705, 14);
+            this.bunifuButton3.Location = new System.Drawing.Point(940, 17);
+            this.bunifuButton3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton3.Name = "bunifuButton3";
             this.bunifuButton3.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton3.OnDisabledState.BorderRadius = 33;
@@ -501,7 +512,7 @@ namespace MultiFaceRec
             this.bunifuButton3.OnPressedState.ForeColor = System.Drawing.Color.Black;
             this.bunifuButton3.OnPressedState.IconLeftImage = null;
             this.bunifuButton3.OnPressedState.IconRightImage = null;
-            this.bunifuButton3.Size = new System.Drawing.Size(123, 39);
+            this.bunifuButton3.Size = new System.Drawing.Size(164, 48);
             this.bunifuButton3.TabIndex = 36;
             this.bunifuButton3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton3.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -558,7 +569,8 @@ namespace MultiFaceRec
             this.bunifuButton4.IdleIconLeftImage = null;
             this.bunifuButton4.IdleIconRightImage = null;
             this.bunifuButton4.IndicateFocus = false;
-            this.bunifuButton4.Location = new System.Drawing.Point(581, 14);
+            this.bunifuButton4.Location = new System.Drawing.Point(775, 17);
+            this.bunifuButton4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton4.Name = "bunifuButton4";
             this.bunifuButton4.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton4.OnDisabledState.BorderRadius = 33;
@@ -592,7 +604,7 @@ namespace MultiFaceRec
             this.bunifuButton4.OnPressedState.ForeColor = System.Drawing.Color.Black;
             this.bunifuButton4.OnPressedState.IconLeftImage = null;
             this.bunifuButton4.OnPressedState.IconRightImage = null;
-            this.bunifuButton4.Size = new System.Drawing.Size(123, 39);
+            this.bunifuButton4.Size = new System.Drawing.Size(164, 48);
             this.bunifuButton4.TabIndex = 33;
             this.bunifuButton4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton4.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -649,7 +661,8 @@ namespace MultiFaceRec
             this.bunifuButton5.IdleIconLeftImage = null;
             this.bunifuButton5.IdleIconRightImage = null;
             this.bunifuButton5.IndicateFocus = false;
-            this.bunifuButton5.Location = new System.Drawing.Point(828, 14);
+            this.bunifuButton5.Location = new System.Drawing.Point(1104, 17);
+            this.bunifuButton5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton5.Name = "bunifuButton5";
             this.bunifuButton5.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton5.OnDisabledState.BorderRadius = 33;
@@ -683,7 +696,7 @@ namespace MultiFaceRec
             this.bunifuButton5.OnPressedState.ForeColor = System.Drawing.Color.Black;
             this.bunifuButton5.OnPressedState.IconLeftImage = null;
             this.bunifuButton5.OnPressedState.IconRightImage = null;
-            this.bunifuButton5.Size = new System.Drawing.Size(123, 39);
+            this.bunifuButton5.Size = new System.Drawing.Size(164, 48);
             this.bunifuButton5.TabIndex = 35;
             this.bunifuButton5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton5.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -721,7 +734,8 @@ namespace MultiFaceRec
             this.bunifuTextBox2.IconRight = null;
             this.bunifuTextBox2.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
             this.bunifuTextBox2.Lines = new string[0];
-            this.bunifuTextBox2.Location = new System.Drawing.Point(43, 14);
+            this.bunifuTextBox2.Location = new System.Drawing.Point(57, 17);
+            this.bunifuTextBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuTextBox2.MaxLength = 22767;
             this.bunifuTextBox2.MinimumSize = new System.Drawing.Size(1, 1);
             this.bunifuTextBox2.Modified = false;
@@ -747,7 +761,7 @@ namespace MultiFaceRec
             stateProperties4.ForeColor = System.Drawing.Color.Empty;
             stateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty;
             this.bunifuTextBox2.OnIdleState = stateProperties4;
-            this.bunifuTextBox2.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuTextBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuTextBox2.PasswordChar = '\0';
             this.bunifuTextBox2.PlaceholderForeColor = System.Drawing.Color.Silver;
             this.bunifuTextBox2.PlaceholderText = "Search";
@@ -757,7 +771,7 @@ namespace MultiFaceRec
             this.bunifuTextBox2.SelectionLength = 0;
             this.bunifuTextBox2.SelectionStart = 0;
             this.bunifuTextBox2.ShortcutsEnabled = true;
-            this.bunifuTextBox2.Size = new System.Drawing.Size(420, 38);
+            this.bunifuTextBox2.Size = new System.Drawing.Size(560, 47);
             this.bunifuTextBox2.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.bunifuTextBox2.TabIndex = 34;
             this.bunifuTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -775,9 +789,10 @@ namespace MultiFaceRec
             this.tabPage2.Controls.Add(this.bunifuPanel2);
             this.tabPage2.Controls.Add(this.bunifuPanel3);
             this.tabPage2.Location = new System.Drawing.Point(4, 4);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(955, 553);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage2.Size = new System.Drawing.Size(1276, 684);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -794,9 +809,11 @@ namespace MultiFaceRec
             this.bunifuGroupBox1.LabelAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.bunifuGroupBox1.LabelIndent = 10;
             this.bunifuGroupBox1.LineStyle = Bunifu.UI.WinForms.BunifuGroupBox.LineStyles.Solid;
-            this.bunifuGroupBox1.Location = new System.Drawing.Point(815, 58);
+            this.bunifuGroupBox1.Location = new System.Drawing.Point(1089, 72);
+            this.bunifuGroupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuGroupBox1.Name = "bunifuGroupBox1";
-            this.bunifuGroupBox1.Size = new System.Drawing.Size(137, 492);
+            this.bunifuGroupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bunifuGroupBox1.Size = new System.Drawing.Size(183, 608);
             this.bunifuGroupBox1.TabIndex = 5;
             this.bunifuGroupBox1.TabStop = false;
             this.bunifuGroupBox1.Text = "Hình ảnh dân cư";
@@ -806,9 +823,10 @@ namespace MultiFaceRec
             this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.BackColor = System.Drawing.SystemColors.Control;
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 21);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(4, 26);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(131, 468);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(175, 578);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // bunifuPanel2
@@ -824,10 +842,11 @@ namespace MultiFaceRec
             this.bunifuPanel2.Controls.Add(this.bunifuButton1);
             this.bunifuPanel2.Controls.Add(this.bunifuDatePicker1);
             this.bunifuPanel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.bunifuPanel2.Location = new System.Drawing.Point(3, 3);
+            this.bunifuPanel2.Location = new System.Drawing.Point(4, 4);
+            this.bunifuPanel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(949, 55);
+            this.bunifuPanel2.Size = new System.Drawing.Size(1268, 68);
             this.bunifuPanel2.TabIndex = 6;
             // 
             // bunifuButton2
@@ -877,7 +896,8 @@ namespace MultiFaceRec
             this.bunifuButton2.IdleIconLeftImage = null;
             this.bunifuButton2.IdleIconRightImage = null;
             this.bunifuButton2.IndicateFocus = false;
-            this.bunifuButton2.Location = new System.Drawing.Point(6, 12);
+            this.bunifuButton2.Location = new System.Drawing.Point(8, 15);
+            this.bunifuButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton2.Name = "bunifuButton2";
             this.bunifuButton2.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton2.OnDisabledState.BorderRadius = 5;
@@ -911,7 +931,7 @@ namespace MultiFaceRec
             this.bunifuButton2.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton2.OnPressedState.IconLeftImage = null;
             this.bunifuButton2.OnPressedState.IconRightImage = null;
-            this.bunifuButton2.Size = new System.Drawing.Size(59, 32);
+            this.bunifuButton2.Size = new System.Drawing.Size(79, 39);
             this.bunifuButton2.TabIndex = 4;
             this.bunifuButton2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton2.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -927,10 +947,11 @@ namespace MultiFaceRec
             this.lblID.Cursor = System.Windows.Forms.Cursors.Default;
             this.lblID.CursorType = System.Windows.Forms.Cursors.Default;
             this.lblID.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.lblID.Location = new System.Drawing.Point(335, 21);
+            this.lblID.Location = new System.Drawing.Point(447, 26);
+            this.lblID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lblID.Name = "lblID";
             this.lblID.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblID.Size = new System.Drawing.Size(11, 15);
+            this.lblID.Size = new System.Drawing.Size(15, 20);
             this.lblID.TabIndex = 3;
             this.lblID.Text = "ID";
             this.lblID.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
@@ -985,7 +1006,8 @@ namespace MultiFaceRec
             this.bunifuButton1.IdleIconLeftImage = null;
             this.bunifuButton1.IdleIconRightImage = null;
             this.bunifuButton1.IndicateFocus = false;
-            this.bunifuButton1.Location = new System.Drawing.Point(784, 12);
+            this.bunifuButton1.Location = new System.Drawing.Point(1048, 15);
+            this.bunifuButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuButton1.Name = "bunifuButton1";
             this.bunifuButton1.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bunifuButton1.OnDisabledState.BorderRadius = 4;
@@ -1019,7 +1041,7 @@ namespace MultiFaceRec
             this.bunifuButton1.OnPressedState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton1.OnPressedState.IconLeftImage = null;
             this.bunifuButton1.OnPressedState.IconRightImage = null;
-            this.bunifuButton1.Size = new System.Drawing.Size(147, 32);
+            this.bunifuButton1.Size = new System.Drawing.Size(196, 39);
             this.bunifuButton1.TabIndex = 3;
             this.bunifuButton1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bunifuButton1.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
@@ -1048,10 +1070,11 @@ namespace MultiFaceRec
             this.bunifuDatePicker1.IconColor = System.Drawing.Color.Black;
             this.bunifuDatePicker1.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right;
             this.bunifuDatePicker1.LeftTextMargin = 5;
-            this.bunifuDatePicker1.Location = new System.Drawing.Point(71, 12);
+            this.bunifuDatePicker1.Location = new System.Drawing.Point(95, 15);
+            this.bunifuDatePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuDatePicker1.MinimumSize = new System.Drawing.Size(4, 32);
             this.bunifuDatePicker1.Name = "bunifuDatePicker1";
-            this.bunifuDatePicker1.Size = new System.Drawing.Size(707, 32);
+            this.bunifuDatePicker1.Size = new System.Drawing.Size(944, 32);
             this.bunifuDatePicker1.TabIndex = 2;
             this.bunifuDatePicker1.Value = new System.DateTime(2021, 9, 21, 0, 0, 0, 0);
             this.bunifuDatePicker1.ValueChanged += new System.EventHandler(this.bunifuDatePicker1_ValueChanged);
@@ -1068,20 +1091,21 @@ namespace MultiFaceRec
             this.bunifuPanel3.Controls.Add(this.panel1);
             this.bunifuPanel3.Controls.Add(this.vScrollBar2);
             this.bunifuPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuPanel3.Location = new System.Drawing.Point(3, 3);
+            this.bunifuPanel3.Location = new System.Drawing.Point(4, 4);
+            this.bunifuPanel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bunifuPanel3.Name = "bunifuPanel3";
             this.bunifuPanel3.ShowBorders = true;
-            this.bunifuPanel3.Size = new System.Drawing.Size(949, 547);
+            this.bunifuPanel3.Size = new System.Drawing.Size(1268, 676);
             this.bunifuPanel3.TabIndex = 7;
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.bunifuDataGridView2);
-            this.panel2.Location = new System.Drawing.Point(495, 61);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(660, 75);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(469, 440);
+            this.panel2.Size = new System.Drawing.Size(625, 542);
             this.panel2.TabIndex = 4;
             // 
             // label2
@@ -1091,9 +1115,8 @@ namespace MultiFaceRec
             this.label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.LightSeaGreen;
             this.label2.Location = new System.Drawing.Point(0, 0);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(255, 25);
+            this.label2.Size = new System.Drawing.Size(327, 32);
             this.label2.TabIndex = 2;
             this.label2.Text = "THỐNG KÊ SỐ LẦN RA VÀO";
             // 
@@ -1148,14 +1171,14 @@ namespace MultiFaceRec
             this.bunifuDataGridView2.HeaderBackColor = System.Drawing.Color.DodgerBlue;
             this.bunifuDataGridView2.HeaderBgColor = System.Drawing.Color.Empty;
             this.bunifuDataGridView2.HeaderForeColor = System.Drawing.Color.White;
-            this.bunifuDataGridView2.Location = new System.Drawing.Point(0, 51);
-            this.bunifuDataGridView2.Margin = new System.Windows.Forms.Padding(2);
+            this.bunifuDataGridView2.Location = new System.Drawing.Point(0, 63);
+            this.bunifuDataGridView2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.bunifuDataGridView2.Name = "bunifuDataGridView2";
             this.bunifuDataGridView2.RowHeadersVisible = false;
             this.bunifuDataGridView2.RowHeadersWidth = 62;
             this.bunifuDataGridView2.RowTemplate.Height = 40;
             this.bunifuDataGridView2.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.bunifuDataGridView2.Size = new System.Drawing.Size(469, 389);
+            this.bunifuDataGridView2.Size = new System.Drawing.Size(625, 479);
             this.bunifuDataGridView2.TabIndex = 1;
             this.bunifuDataGridView2.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
@@ -1163,10 +1186,10 @@ namespace MultiFaceRec
             // 
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.bunifuDataGridView1);
-            this.panel1.Location = new System.Drawing.Point(-1, 61);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(-1, 75);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(469, 440);
+            this.panel1.Size = new System.Drawing.Size(625, 542);
             this.panel1.TabIndex = 3;
             // 
             // label1
@@ -1176,9 +1199,8 @@ namespace MultiFaceRec
             this.label1.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.LightSeaGreen;
             this.label1.Location = new System.Drawing.Point(0, 0);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(169, 25);
+            this.label1.Size = new System.Drawing.Size(218, 32);
             this.label1.TabIndex = 1;
             this.label1.Text = "NHẬT KÝ RA VÀO";
             // 
@@ -1233,31 +1255,32 @@ namespace MultiFaceRec
             this.bunifuDataGridView1.HeaderBackColor = System.Drawing.Color.DodgerBlue;
             this.bunifuDataGridView1.HeaderBgColor = System.Drawing.Color.Empty;
             this.bunifuDataGridView1.HeaderForeColor = System.Drawing.Color.White;
-            this.bunifuDataGridView1.Location = new System.Drawing.Point(0, 51);
-            this.bunifuDataGridView1.Margin = new System.Windows.Forms.Padding(2);
+            this.bunifuDataGridView1.Location = new System.Drawing.Point(0, 63);
+            this.bunifuDataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.bunifuDataGridView1.Name = "bunifuDataGridView1";
             this.bunifuDataGridView1.RowHeadersVisible = false;
             this.bunifuDataGridView1.RowHeadersWidth = 62;
             this.bunifuDataGridView1.RowTemplate.Height = 40;
             this.bunifuDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.bunifuDataGridView1.Size = new System.Drawing.Size(469, 389);
+            this.bunifuDataGridView1.Size = new System.Drawing.Size(625, 479);
             this.bunifuDataGridView1.TabIndex = 0;
             this.bunifuDataGridView1.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
             // vScrollBar2
             // 
             this.vScrollBar2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.vScrollBar2.Location = new System.Drawing.Point(932, 0);
+            this.vScrollBar2.Location = new System.Drawing.Point(1251, 0);
             this.vScrollBar2.Name = "vScrollBar2";
-            this.vScrollBar2.Size = new System.Drawing.Size(17, 547);
+            this.vScrollBar2.Size = new System.Drawing.Size(17, 676);
             this.vScrollBar2.TabIndex = 2;
             // 
             // FrmTraCuu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(963, 579);
+            this.ClientSize = new System.Drawing.Size(1284, 713);
             this.Controls.Add(this.bunifuPanel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmTraCuu";
             this.Text = "FrmTraCuu";
             this.Load += new System.EventHandler(this.FrmTraCuu_Load);
